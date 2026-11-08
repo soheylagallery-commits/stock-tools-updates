@@ -30,7 +30,7 @@ for root, thr in ROOTS.items():
             if s.lexname() in ("noun.plant", "noun.animal"): need = max(need, 3.3)
             if z >= need: out[w] = max(out.get(w, 0), z)
 cur = [l.strip() for l in open("tools/vocab/curated.txt", encoding="utf-8") if l.strip() and not l.startswith("#")]
-words = sorted(out, key=lambda w: -out[w])[:12000]
+words = []  # WordNet bulk is not used: it lowered keyword quality in tests
 P = list(dict.fromkeys(cur + words))
 open("tools/vocab/phrases.txt", "w", encoding="utf-8").write("\n".join(P) + "\n")
 open("tools/vocab/curated_count.txt", "w").write(str(len(dict.fromkeys(cur))))
