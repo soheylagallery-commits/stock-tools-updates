@@ -1,1 +1,932 @@
-{"kind": "stock-prompt-pack", "version": 1, "created_at": "2026-11-07T19:20:28.569423Z", "insight": {"adobe_trends_year": 2026, "created_at": "2026-11-02", "month": "2026-11", "ranking": [{"audience": "ecommerce", "score": 5, "why_fa": "فروشگاه‌ها برای ولنتاین، رمضان و نوروز بک‌گراند و صحنه‌ی محصول فصلی لازم دارن."}, {"audience": "food", "score": 5, "why_fa": "رمضان و افطار، عید پاک و شام ولنتاین؛ رستوران‌ها و برندهای غذایی از الان دنبال عکس منو و تبلیغ هستن."}, {"audience": "b2b", "score": 4, "why_fa": "فصل مالیات و حسابداری، فصل بازسازی بهار و لجستیک سبز."}, {"audience": "realestate", "score": 4, "why_fa": "بهار اوج خرید و فروش و جابه‌جایی خونه و بازسازی دکوراسیونه."}, {"audience": "marketing", "score": 4, "why_fa": "کمپین‌های بهاری و ولنتاین؛ ترند Connectioneering (لحظه‌های واقعی آدم‌ها) پرطرفداره."}, {"audience": "design", "score": 4, "why_fa": "بک‌گراندهای فصلی بهار و رمضان برای قالب‌های شبکه‌ی اجتماعی."}, {"audience": "travel", "score": 3, "why_fa": "رزرو سفرهای بهار و تابستون از اوایل سال شروع می‌شه."}, {"audience": "health", "score": 3, "why_fa": "سلامت و تندرستی همیشه پرفروشه ولی رقابتش هم زیاده."}, {"audience": "content", "score": 3, "why_fa": "مقاله‌های مالیات و پول و برنامه‌ریزی سال جدید."}, {"audience": "education", "score": 3, "why_fa": "فصل امتحانات بهار و ثبت‌نام دوره‌های آنلاین."}], "season_fa": "این ماه برای فصل فوریه تا آوریل ۲۰۲۷ کار می‌کنیم: ولنتاین، رمضان، نوروز، عید پاک، فصل مالیات و فصل بازسازی و جابه‌جایی بهار.", "sources": [{"title": "Adobe: Create what's in demand", "url": "https://helpx.adobe.com/stock/contributor/help/artist-hub-migration/creat-what-s-in-demand.html"}, {"title": "Adobe 2026 Creative Trends", "url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends"}, {"title": "Adobe forecasts creative trends for 2026 (release timing)", "url": "https://ppc.land/adobe-forecasts-four-creative-trends-shaping-2026-advertising-campaigns/"}, {"title": "Best Selling Stock Photos in 2026", "url": "https://autokeyworder.com/blog/best-selling-stock-photos-2026/"}, {"title": "Top Adobe Stock trending keywords of 2026", "url": "https://cyberstock.lol/blog/stop-shooting-blind-the-top-adobe-stock-trending-keywords-of-2026"}]}, "trends": {"checked_at": "2026-11-02", "released": "2025-12", "source_url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends", "trends": [{"fa": "حس لمسی (All the Feels)", "value": "All the Feels: tactile, sensory materials and rich textures"}, {"fa": "همکاری واقعی (Connectioneering)", "value": "Connectioneering: candid, genuine connection between people"}, {"fa": "حال‌وهوای محلی (Local Flavor)", "value": "Local Flavor: authentic local, regional everyday settings and textures"}, {"fa": "شوخ و سورئال (Surreal Silliness)", "value": "Surreal Silliness: playful, unexpected surreal twist"}], "year": 2026}, "reports": [{"audience": "b2b", "created_at": "2026-11-02", "ideas": [{"idea_fa": "کارگاه کلیدسازی و دستگاه تراش کلید", "prompts": [{"note": "دندانه‌های کلید رو چک کن که نامنظم یا ذوب‌شده نباشن.", "prompt": "Brass and nickel key blanks fanned out beside a single freshly cut key on a pale grey concrete slab, soft overhead softbox light, 100mm macro lens, crisp brushed metal texture with fine filing marks, calm minimal mood, wide empty space on the right", "shot": "محصول تمیز"}, {"note": "قطعات دستگاه و گیره‌ها رو برای شکل غیرمنطقی چک کن.", "prompt": "Compact key duplicating machine on a worn wooden workbench in a small locksmith workshop, fine metal shavings around the clamp, warm tungsten desk lamp, 35mm lens at a low three-quarter angle, rows of blank hooks on a pegboard behind, cozy craftsman mood, empty wall space at top", "shot": "در محیط کار"}, {"note": "صورت آدم پس‌زمینه باید محو بمونه؛ دست‌هاش رو چک کن.", "prompt": "Small locksmith service counter seen from the customer side, glass tray of unbranded padlocks and door cylinders in sharp focus, a middle-aged craftsman softly blurred working at the back bench, cool morning daylight, 50mm lens, teal and steel palette, open space on the left", "shot": "آدم در پس‌زمینه"}], "why_fa": "کسب‌وکارهای کوچک و مشاغل خدماتی محلی جزو موضوعات کم‌عرضه‌ی B2B هستن و اوایل سال، با جابه‌جایی دفترها و مستأجرها، تقاضا برای کلید و تعویض قفل بالا می‌ره؛ این زیرحوزه از ایده‌های ماه قبل (فروشگاه و نصب) جداست."}, {"idea_fa": "آشپزخانه‌ی کترینگ و آماده‌سازی جعبه‌های افطار", "prompts": [{"note": "برچسب یا نوشته روی جعبه‌ها ظاهر نشه؛ دانه‌های برنج رو چک کن.", "prompt": "Stainless steel prep line in a commercial catering kitchen at dusk, rows of open kraft meal boxes filled with dates, rice and grilled vegetables, warm amber pendant light against blue window light, 35mm lens at a high side angle, gentle steam, empty counter space at front", "shot": "در محیط کار"}, {"note": "تعداد خرماها و شکل نان رو چک کن که تکراری و کپی‌شده نباشن.", "prompt": "Top-down flat lay of a single kraft iftar box with dates, a small bowl of lentil soup, flatbread and sliced cucumber on a dark walnut table, soft window light from the left, 50mm lens, rich earthy palette, wide empty space at the bottom", "shot": "فلت‌لی"}, {"note": "آدم‌ها باید محو و از نیم‌رخ باشن؛ اندام‌ها رو چک کن.", "prompt": "Wide view of a modern catering kitchen preparing evening orders, stacked insulated delivery bags on a steel shelf, two cooks in white aprons softly blurred in the background, cool fluorescent mixed with warm sunset glow, 24mm lens, clean professional mood, open ceiling space for copy", "shot": "نمای باز محیط"}], "why_fa": "رمضان ۲۰۲۷ حدود ۸ فوریه شروع می‌شه و رستوران‌ها، کترینگ‌ها و شرکت‌ها برای افطاری سازمانی و تبلیغات خدمات غذایی به تصویر نیاز دارن؛ ماه قبل فقط بسته‌ی هدیه داشتیم."}, {"idea_fa": "کارگاه چاپ و بسته‌بندی قرمز-طلایی سال نو قمری", "prompts": [{"note": "الگوی طلایی نباید شبیه حروف یا نوشته‌ی چینی بشه.", "prompt": "Extreme close-up of embossed red gift box paper with a gold foil pattern of abstract clouds, fine paper fibers and a slight foil sheen, raking side light, 100mm macro lens, rich crimson and gold palette, soft focus edge with empty area at top", "shot": "نمای نزدیک جنس"}, {"note": "گوشه‌ها و لبه‌های جعبه‌ها رو برای کج‌شدن و ادغام چک کن.", "prompt": "Stacks of blank red gift boxes and folded gold-trimmed sleeves on a packing table in a small print and packaging workshop, a large cutting machine behind, bright cool daylight from tall windows, 35mm lens eye-level, organized busy mood, empty wall space on the left", "shot": "در محیط کار"}, {"note": "برگ‌ها و گره‌ی روبان رو در زوم ۱۰۰٪ چک کن.", "prompt": "Single matte red gift box with a gold ribbon and a sprig of mandarin leaves on a seamless warm ivory background, soft diffused studio light, 85mm lens slightly from above, elegant festive mood, generous empty space on the right for a headline", "shot": "محصول تمیز"}], "why_fa": "سال نو قمری ۲۰۲۷ حدود ۶ فوریه‌ست و برندها و فروشگاه‌ها از دسامبر و ژانویه دنبال تصویر بسته‌بندی و تولید فصلی می‌گردن؛ نشون‌دادن پشت صحنه‌ی تولید کم‌عرضه‌تر از تزئینات تکراریه."}, {"idea_fa": "مراقبت سلامت سالمندان در خانه", "prompts": [{"note": "صفحه‌ی دستگاه فشارسنج باید خالی باشه، عدد یا نوشته‌ی تقلبی نداشته باشه.", "prompt": "Neat home care kit on a light oak side table, unbranded blood pressure monitor, weekly pill organizer, reading glasses and a glass of water, soft morning window light, 50mm lens at a slight high angle, calm reassuring pastel blue palette, empty space on the left", "shot": "محصول تمیز"}, {"note": "صورت و دست‌ها رو چک کن؛ آدم‌ها طبیعی و از نیم‌رخ باشن.", "prompt": "Bright living room with a home care nurse in a teal uniform seen from the side, gently adjusting a cushion for an elderly woman in an armchair, both in soft focus behind a sharp medical bag on the table, warm daylight, 85mm lens, caring mood, open space at top", "shot": "آدم در پس‌زمینه"}, {"note": "", "prompt": "A sturdy wooden walking cane leaning against a sunny window beside a potted lemon tree and a folded wool blanket, quiet independent living concept, golden afternoon light with long shadows, 35mm lens, warm cream and green palette, wide empty wall space on the right", "shot": "مفهومی"}], "why_fa": "اقتصاد سالمندی (Silver economy) طبق گزارش‌های کلمات کلیدی ۲۰۲۶ کمبود محتوا داره و شرکت‌های بیمه، سلامت و مراقبت در خانه مشتری ثابت این موضوع‌ان."}, {"idea_fa": "نصب پمپ حرارتی و گرمایش کم‌کربن در زمستان", "prompts": [{"note": "پره‌های فن و لوله‌های مسی رو برای اتصال‌های غیرمنطقی چک کن.", "prompt": "Outdoor heat pump unit being installed beside a brick wall of a small office building on a frosty winter morning, copper pipes and insulation foam visible, a technician in a navy jacket seen from behind, cold blue light, 35mm lens, practical mood, empty sky space at top", "shot": "در محیط کار"}, {"note": "", "prompt": "Close-up of frosted aluminum heat exchanger fins with tiny ice crystals and a copper pipe joint, low side light catching the texture, 100mm macro lens, crisp silver and copper palette, shallow depth of field with a soft empty area on the left", "shot": "نمای نزدیک جنس"}, {"note": "روی دستگاه‌ها نوشته یا برچسب ظاهر نشه؛ خطوط لوله‌ها رو چک کن.", "prompt": "Clean plant room in a commercial building with a row of matte white heat pumps, insulated pipes in tidy runs and a polished concrete floor, even daylight from a high window, 24mm lens symmetrical view, quiet efficient mood, open floor space at the bottom", "shot": "نمای باز محیط"}], "why_fa": "فوریه اوج فصل گرمایشه و فناوری پایدار (شبکه‌ی هوشمند، انرژی پاک) یکی از موج‌های اصلی تقاضای ۲۰۲۶ است؛ شرکت‌های تأسیسات و انرژی تصویر واقعی نصب لازم دارن."}, {"idea_fa": "مزرعه‌ی عمودی و کشاورزی شهری داخل ساختمان", "prompts": [{"note": "برگ‌ها نباید در ردیف‌های دور به بافت تکراری ذوب‌شده تبدیل بشن.", "prompt": "Long aisle of a vertical farm with stacked trays of lettuce and basil under soft pink-white grow light, white metal racks and a clean epoxy floor, 24mm lens central perspective, fresh green and soft magenta palette, calm futuristic mood, empty ceiling space", "shot": "نمای باز محیط"}, {"note": "", "prompt": "Macro view of young lettuce roots hanging in clear water below a white foam tray, fine root hairs and tiny bubbles, cool side light, 100mm macro lens, clean aqua and white palette, dark empty background on the right", "shot": "نمای نزدیک جنس"}, {"note": "صورت و دست‌های فرد پس‌زمینه رو چک کن.", "prompt": "Crate of freshly harvested microgreens on a stainless steel packing table in an indoor farm, a young grower in a grey apron softly blurred checking racks behind, neutral daylight-balanced light, 50mm lens at table height, honest workday mood, open space at top left", "shot": "آدم در پس‌زمینه"}], "why_fa": "کشاورزی شهری و امنیت غذایی جزو کلمات کلیدی پایداری ۲۰۲۶ هستن و در زمستان که تولید فضای باز کمه، شرکت‌های فناوری کشاورزی و زنجیره‌ی تأمین غذا دنبال این تصاویرن."}, {"idea_fa": "بسته‌بندی زیست‌تخریب‌پذیر برای فروش آنلاین", "prompts": [{"note": "روی کارتن هیچ نوشته یا نماد بازیافت تقلبی نیاد.", "prompt": "Set of molded pulp packaging inserts and a natural cardboard mailer box arranged on a seamless sage green background, soft even studio light, 85mm lens slightly from above, matte fibrous texture, eco minimal mood, generous empty space on the left", "shot": "محصول تمیز"}, {"note": "", "prompt": "Macro of mushroom mycelium packaging material broken in half, showing white fibrous strands and a rough organic edge, warm raking light, 100mm macro lens, earthy beige and white palette, shallow depth of field with a soft empty background at top", "shot": "نمای نزدیک جنس"}, {"note": "روی برچسب کاغذی نوشته ظاهر نشه.", "prompt": "Flat lay of compostable packaging samples on a light birch plywood table, paper tape roll, honeycomb paper wrap, cornstarch filler peanuts and a seed paper tag, soft overcast window light, 35mm lens top-down, natural neutral palette, wide empty space at bottom right", "shot": "فلت‌لی"}], "why_fa": "بسته‌بندی زیست‌تخریب‌پذیر و اقتصاد چرخشی در فهرست کلمات کلیدی پایداری ۲۰۲۶ هست؛ این ایده روی خود جنس بسته‌بندی تمرکز داره نه روی بسته‌بندی سفارش در خانه که ماه قبل بود."}, {"idea_fa": "مرکز داده با نگاه واقعی: خنک‌کاری و نگهداری", "prompts": [{"note": "اتصال‌های لوله رو برای شکل غیرمنطقی چک کن.", "prompt": "Close-up of insulated liquid cooling pipes and stainless quick-connect fittings behind a server rack, slight condensation and brushed metal texture, neutral white work light, 100mm macro lens, cool grey and blue palette, soft blurred empty background on the right", "shot": "نمای نزدیک جنس"}, {"note": "کابل‌ها نباید درهم و ذوب‌شده باشن؛ نیم‌رخ آدم رو چک کن.", "prompt": "Data center maintenance aisle with an open rack door, neatly bundled grey and blue cables and a tool cart, a technician in a high visibility vest seen from the side at the far end, even overhead white light, 35mm lens, practical calm mood, empty floor space at front", "shot": "در محیط کار"}, {"note": "تابلو یا نوشته روی ساختمان ظاهر نشه.", "prompt": "Exterior of a modern data center campus at overcast dawn, low concrete buildings, rows of rooftop cooling units and a small solar array, wet asphalt reflections, 24mm lens wide angle, muted steel and slate palette, large empty sky for copy", "shot": "نمای باز محیط"}], "why_fa": "هوش مصنوعی تقاضا برای تصویر زیرساخت و انرژی رو بالا برده، ولی تصویرهای نئونی و درخشان تکنولوژی اشباع شدن؛ نسخه‌ی واقعی و صنعتی با نور طبیعی هنوز کم‌عرضه‌ست."}, {"idea_fa": "زنجیره‌ی تأمین گل عمده‌فروشی قبل از ولنتاین", "prompts": [{"note": "گل‌های ردیف عقب نباید به بافت تکراری تبدیل بشن.", "prompt": "Wholesale flower cold room filled with tall buckets of red and blush roses, tulips and eucalyptus, metal racks and a concrete floor with a drain, cool blue refrigerated light, 24mm lens at hip height, fresh busy mood, empty space at top", "shot": "نمای باز محیط"}, {"note": "", "prompt": "Bundle of long-stem red roses wrapped in plain kraft paper and twine lying on a pale grey steel table, soft diffused overhead light, 85mm lens at a low angle, clean commercial mood, wide empty background on the right", "shot": "محصول تمیز"}, {"note": "روی جعبه‌ها نوشته ظاهر نشه؛ اندام فرد رو چک کن.", "prompt": "Corrugated flower shipping boxes stacked on a pallet at a loading dock at early morning, a florist worker in a beanie pushing a trolley softly blurred behind, warm sunrise light through the open dock door, 35mm lens, bustling seasonal mood, open space on the left", "shot": "آدم در پس‌زمینه"}], "why_fa": "روز ولنتاین ۱۴ فوریه برای گل‌فروشی‌های عمده و لجستیک سرد اوج ساله؛ زاویه‌ی B2B یعنی انبار و حمل، نه قلب و هدیه‌ی تکراری."}, {"idea_fa": "کتابخانه‌ی متریال و نمونه‌های طراحی داخلی", "prompts": [{"note": "", "prompt": "Top-down flat lay of interior material samples, terrazzo tile, oak veneer, travertine, boucle fabric swatch and brushed brass chip on a warm linen board, soft north window light, 50mm lens, earthy terracotta and sand palette, empty space at top left", "shot": "فلت‌لی"}, {"note": "", "prompt": "Macro of a folded boucle fabric swatch resting on a polished travertine sample, visible loops of yarn and natural stone pores, warm low side light, 100mm macro lens, cream and stone palette, shallow focus with empty soft background at bottom", "shot": "نمای نزدیک جنس"}, {"note": "روی جعبه‌ها و قفسه‌ها نوشته‌ی تقلبی نیاد.", "prompt": "Quiet material library in an architecture studio, tall birch shelves of plain unmarked sample boxes, a large worktable with fabric and stone swatches, bright diffused daylight from a skylight, 24mm lens, calm creative mood, open wall space on the right", "shot": "نمای باز محیط"}], "why_fa": "ترند «All the feels» در پیش‌بینی ادوبی ۲۰۲۶ روی تصاویر حسی و پرجزئیات تأکید داره؛ شرکت‌های معماری، طراحی داخلی و مصالح برای کاتالوگ و تبلیغ فصل بازسازی به این بافت‌ها نیاز دارن."}, {"idea_fa": "کارگاه کاشی و سرامیک دست‌ساز محلی", "prompts": [{"note": "الگوی کاشی‌ها نباید شبیه حروف یا نماد مشخص بشه.", "prompt": "Rows of freshly glazed handmade tiles in deep cobalt and turquoise drying on wooden racks in a small ceramic workshop, kiln door slightly open in the background, warm afternoon sun through a dusty window, 35mm lens, artisanal mood, empty wall space at top", "shot": "در محیط کار"}, {"note": "", "prompt": "Close-up of a single handmade tile edge with crackled glaze, tiny pinholes and a chalky unglazed rim, raking side light, 100mm macro lens, cobalt and off-white palette, soft blurred workshop background with empty space on the right", "shot": "نمای نزدیک جنس"}, {"note": "صورت و دست صنعتگر محو باشه؛ اندام رو چک کن.", "prompt": "Stack of packed tile boxes tied with cotton string on a workshop floor ready for delivery, a ceramic artisan in a clay-stained apron softly blurred at the wheel behind, warm earthy light, 50mm lens at low angle, honest small-business mood, open space on the left", "shot": "آدم در پس‌زمینه"}], "why_fa": "ترند «Local flavours» ادوبی ۲۰۲۶ روی صنعتگر و تولیدکننده‌ی محلی تمرکز داره و برندها و پروژه‌های ساختمانی دنبال تصویر تولید اصیل و غیرژستی هستن."}, {"idea_fa": "آمادگی ساختمان‌های تجاری برای طوفان و یخبندان زمستانی", "prompts": [{"note": "اتصال‌های لوله و نوار عایق رو چک کن.", "prompt": "Copper water pipes being wrapped with grey foam insulation in a basement utility room of a commercial building, a utility work lamp casting warm light, 35mm lens at a low angle, concrete wall with fine dust, practical preventive mood, empty wall space at top", "shot": "در محیط کار"}, {"note": "روی ساختمان تابلو یا نوشته ظاهر نشه.", "prompt": "Small office building parking lot after overnight snowfall, a compact snow plow clearing a path near the entrance, salt-spread wet asphalt, soft overcast morning light, 24mm lens elevated view, cold white and slate palette, large empty snowy area at bottom", "shot": "نمای باز محیط"}, {"note": "روی رادیو و چراغ‌قوه نوشته یا دکمه‌ی عجیب نباشه.", "prompt": "Sturdy red emergency storm kit bag open on a steel shelf in a facility storeroom, flashlight, folded thermal blankets, coil of rope and a portable radio, cool blue window light from a winter storm, 50mm lens, prepared resilient mood, empty space on the right", "shot": "مفهومی"}], "why_fa": "سازگاری با تغییرات اقلیمی جزو کلمات کلیدی پایداری ۲۰۲۶ است و در فوریه مدیریت تأسیسات، بیمه و پیمانکاران به تصاویر عایق‌کاری، برف‌روبی و پیشگیری از خسارت نیاز دارن."}], "month": "2026-11", "sources": [{"title": "Creative Bloq: 4 creative trends for 2026, according to Adobe", "url": "https://www.creativebloq.com/creative-inspiration/4-creative-trends-for-2026-according-to-adobe"}, {"title": "Top Adobe Stock trending keywords of 2026", "url": "https://cyberstock.lol/blog/stop-shooting-blind-the-top-adobe-stock-trending-keywords-of-2026"}, {"title": "Best selling stock photos 2026 (incl. Adobe 3-month seasonal advice)", "url": "https://autokeyworder.com/blog/best-selling-stock-photos-2026"}, {"title": "Adobe Stock rejection reasons and saturated categories", "url": "https://autokeyworder.com/blog/adobe-stock-rejection-reasons"}, {"title": "When is Ramadan 2027? Monday, February 8", "url": "https://outside.so/when-is/when-is-ramadan-2027"}, {"title": "Ramadan 2027 dates (Gulf News)", "url": "https://gulfnews.com/uae/ramadan/when-is-ramadan-2027-the-expected-date-moon-sighting-and-eid-explained-1.500630523"}], "summary_fa": "طبق توصیه‌ی ادوبی محتوای فصلی رو حدود ۳ ماه زودتر آپلود کنید، پس این ماه هدف فوریه ۲۰۲۷ است: سال نو قمری (حدود ۶ فوریه)، شروع رمضان (حدود ۸ فوریه)، ولنتاین و اوج فصل گرمایش و یخبندان. ترندهای ۲۰۲۶ که هنوز کم‌عرضه‌ان: فناوری پایدار (انرژی، بسته‌بندی زیست‌تخریب‌پذیر، کشاورزی شهری)، اقتصاد سالمندی، و ترندهای ادوبی «All the feels» (بافت و جزئیات حسی) و «Local flavours» (صنعتگر محلی). خریدارها ظاهر واقعی و کمی ناقص رو به براقی تصنعی هوش مصنوعی ترجیح می‌دن. از موضوعات اشباع‌شده دوری کنید: جلسه‌های اداری عمومی، تکنولوژی نئونی، نمودار و دیتای انتزاعی، شکوفه‌ی بهاری و چهره‌ی پیش‌فرض هوش مصنوعی؛ از هر ایده حداکثر ۳ نسخه‌ی متفاوت در یک بچ بفرستید.", "title_fa": "گزارش نوامبر ۲۰۲۶ — برای فروش فوریه و اوایل مارس ۲۰۲۷"}, {"audience": "ecommerce", "created_at": "2026-11-02", "ideas": [{"idea_fa": "سکوی خالی گچی برای محصولات مراقبت پوست ولنتاین", "prompts": [{"note": "لبه‌ی سکو رو چک کن صاف و گرد باشه و گلبرگ‌ها شکل طبیعی داشته باشن.", "prompt": "Empty round plaster podium in dusty rose on a blush seamless backdrop, a few dried red rose petals scattered at its base, soft diffused window light from the left, 85mm lens at eye level, matte chalky texture, romantic calm mood, generous empty space above the podium", "shot": "سکوی خالی محصول"}, {"note": "قطره‌چکان و درِ بطری‌ها رو برای شکل عجیب چک کن.", "prompt": "Two blank frosted glass serum bottles with rose gold caps on a cream linen cloth beside a small bunch of dried baby roses and a satin ribbon, warm late afternoon sunlight with soft shadows, 50mm lens three-quarter angle, intimate gentle mood, open space on the right", "shot": "صحنه‌آرایی با وسایل"}, {"note": "", "prompt": "Full frame crumpled silk fabric in deep burgundy and soft pink folds, low raking light creating glossy highlights and deep shadows, 100mm macro lens, rich tactile sensual texture, elegant Valentine mood, smooth calm area in the upper left for product placement", "shot": "بک‌گراند بافت"}], "why_fa": "ولنتاین ۲۰۲۷ برای فروشگاه‌های آنلاین اوج فروش هدیه‌ی مراقبت پوسته و برندهای کوچک برای عکس محصول خودشون سکوی خالی با حس فصلی لازم دارن."}, {"idea_fa": "جعبه‌هدیه‌ی رمضان با خرما و فانوس", "prompts": [{"note": "خرماها رو برای تکرار یا شکل ذوب‌شده چک کن.", "prompt": "Blank matte emerald green gift box with gold foil edges, lid slightly open showing rows of glossy Medjool dates on parchment, set on a warm sand colored stone surface, soft evening light, 50mm lens at 45 degrees, festive calm mood, wide empty space above", "shot": "ماکاپ بسته‌بندی خالی"}, {"note": "طرح سوراخ‌های فانوس رو چک کن منظم باشه.", "prompt": "Brass Moroccan style lantern glowing softly beside small unbranded kraft gift boxes tied with twine and a ceramic bowl of dates, deep indigo dusk background, warm candle glow, 35mm lens low angle, cozy Ramadan evening mood, open dark space on the left", "shot": "صحنه‌آرایی با وسایل"}, {"note": "پسته‌ها و دانه‌های خرما رو برای شکل نامنظم چک کن.", "prompt": "Overhead flat lay of a woven tray with dates, dried apricots, pistachios and small blank gold tins on a deep teal linen tablecloth, crescent shaped brass decor, soft even daylight, 35mm lens top down, generous empty margin at the bottom", "shot": "فلت‌لی فصلی"}], "why_fa": "از ۸ فوریه ۲۰۲۷ رمضان شروع می‌شه و فروشگاه‌ها و برندهای کوچک از ژانویه کمپین سبد هدیه‌ی رمضان راه می‌ندازن."}, {"idea_fa": "بسته‌بندی قرمز و طلایی سال نو قمری", "prompts": [{"note": "برگ نارنگی‌ها و گره روبان رو چک کن.", "prompt": "Stack of blank glossy red gift boxes with gold ribbon bands on a polished dark walnut table, a few mandarin oranges with leaves beside them, warm golden key light, 85mm lens eye level, prosperous festive mood, empty red backdrop space on the right", "shot": "ماکاپ بسته‌بندی خالی"}, {"note": "", "prompt": "Empty cylindrical red lacquer podium on a gold paper backdrop, soft paper lantern glow blurred in the background, small scattered gold coins shaped as plain discs at the base, 50mm lens straight on, luxurious celebratory mood, wide clear space above the podium", "shot": "سکوی خالی محصول"}, {"note": "", "prompt": "Full frame handmade red mulberry paper with visible fibers and fine gold leaf flakes, soft side light revealing texture, 100mm macro lens, warm festive tactile feel, smooth calm center area for design overlay", "shot": "بک‌گراند بافت"}], "why_fa": "سال نو قمری ۶ فوریه ۲۰۲۷ است و فروشگاه‌های آنلاین برای کمپین هدیه و تخفیف تصویر بسته‌بندی قرمز طلایی بدون نماد خاص لازم دارن."}, {"idea_fa": "ماکاپ شیشه‌ی مکمل زیبایی و کلاژن", "prompts": [{"note": "سطح شیشه‌ها رو برای انعکاس غیرطبیعی چک کن.", "prompt": "Three blank amber glass supplement jars with matte white lids on a pale peach terrazzo surface, a scoop of light pink powder in a ceramic spoon, bright soft morning light, 50mm lens three-quarter view, clean wellness mood, empty space on the left", "shot": "ماکاپ بسته‌بندی خالی"}, {"note": "", "prompt": "Unbranded pouch of collagen powder standing beside fresh cucumber slices, a glass of pale pink drink and a sprig of mint on a white marble counter, airy kitchen daylight, 35mm lens slight high angle, fresh healthy mood, open space above", "shot": "صحنه‌آرایی با وسایل"}, {"note": "سایه‌ی برگ‌ها رو برای شکل غیرطبیعی چک کن.", "prompt": "Empty stepped podium of pale sage and cream stone blocks, soft palm leaf shadow falling across it, sunny diffused light, 85mm lens eye level, calm spa like mood, large empty area above the top step", "shot": "سکوی خالی محصول"}], "why_fa": "ترند ۲۰۲۷ ووُل‌فودز «زیبایی از راه تغذیه» (Beautrition) است و برندهای کوچک مکمل و پودر کلاژن به ماکاپ بسته‌بندی خالی نیاز دارن."}, {"idea_fa": "بسته‌بندی ریفیل بی‌زباله و کرافت", "prompts": [{"note": "برچسب‌ها باید کاملاً خالی بمونن؛ حروف تصادفی رو چک کن.", "prompt": "Blank kraft paper stand up pouches and plain glass refill jars filled with oats and lentils on a reclaimed wood shelf, soft natural side light, 50mm lens straight on, earthy beige and olive palette, honest sustainable mood, empty wall space on the top", "shot": "ماکاپ بسته‌بندی خالی"}, {"note": "", "prompt": "Overhead flat lay of reusable cotton produce bags, a bamboo brush, a glass bottle and dried orange slices on a recycled grey paper background, soft even daylight, 35mm lens top down, calm eco mood, generous empty space in the center", "shot": "فلت‌لی فصلی"}, {"note": "", "prompt": "Full frame recycled cardboard texture with visible fibers and small flecks, warm low side light, 100mm macro lens, rustic tactile feel, neutral brown tones, clean even area for product cutouts", "shot": "بک‌گراند بافت"}], "why_fa": "ترند Zero Waste 2.0 و توجه به پایداری باعث شده برندها دنبال عکس پاکت کرافت و شیشه‌ی ریفیل بدون برند باشن؛ این موضوع هنوز کم‌عرضه‌تر از بسته‌بندی پلاستیکیه."}, {"idea_fa": "بطری روغن زیتون و شیشه‌ی عسل محلی بدون برچسب", "prompts": [{"note": "برگ‌های زیتون و چوب‌پنبه رو چک کن.", "prompt": "Blank dark green glass olive oil bottle with a plain cream paper tag on a weathered limestone slab, a small branch of olives with leaves beside it, warm Mediterranean sunlight, 85mm lens eye level, earthy authentic mood, empty sunlit wall on the right", "shot": "ماکاپ بسته‌بندی خالی"}, {"note": "سلول‌های شان عسل رو برای الگوی به‌هم‌ریخته چک کن.", "prompt": "Unlabeled glass jars of amber honey with wooden dippers on a rustic oak table, a piece of honeycomb on parchment and dried lavender, golden backlight through the honey, 50mm lens low angle, warm farm mood, open space above", "shot": "صحنه‌آرایی با وسایل"}, {"note": "", "prompt": "Empty rough terracotta podium on a warm ochre backdrop, a few olive sprigs and wheat stems leaning at the side, soft directional sunlight with long shadow, 50mm lens straight on, rustic regional mood, clear space above the podium", "shot": "سکوی خالی محصول"}], "why_fa": "ترند «Terroir» ۲۰۲۷ یعنی محصولات با اصالت منطقه‌ای؛ فروشگاه‌های اینترنتی مواد غذایی و محصولات محلی عکس تمیز بطری و شیشه‌ی بدون برند لازم دارن."}, {"idea_fa": "ظرف جواهر سرامیکی دست‌ساز برای هدیه", "prompts": [{"note": "حلقه‌ها و حلقه‌های زنجیر رو برای ادغام یا شکستگی چک کن.", "prompt": "Handmade speckled ceramic ring dish holding delicate gold rings and a thin chain, on a soft oatmeal linen next to a small vase of dried flowers, gentle morning window light, 100mm macro lens, warm intimate mood, empty space on the left", "shot": "صحنه‌آرایی با وسایل"}, {"note": "", "prompt": "Empty small travertine riser with a single folded ivory silk ribbon beside it, soft blush backdrop, diffused studio light, 85mm lens eye level, refined minimal mood, wide empty area for a jewelry product", "shot": "سکوی خالی محصول"}, {"note": "کارت باید خالی باشه؛ گوشواره‌ها رو برای تقارن چک کن.", "prompt": "Overhead flat lay of a blank cream jewelry box, pressed pink tulips, a handwritten style blank card and gold hoop earrings on pale pink paper, soft even daylight, 50mm lens top down, tender feminine mood, generous empty space at the top", "shot": "فلت‌لی فصلی"}], "why_fa": "ولنتاین و روز جهانی زن (۸ مارس) فروش زیورآلات و هدایای دست‌ساز رو بالا می‌بره و ترند Local Flavor حس صنعتگر محلی رو می‌خواد."}, {"idea_fa": "صحنه‌ی نوروزی سبزه و تخم‌مرغ رنگی برای محصولات بهاری", "prompts": [{"note": "نقش تخم‌مرغ‌ها و ساقه‌های سبزه رو برای شکل عجیب چک کن.", "prompt": "Fresh green wheatgrass sprouts in a low ceramic bowl tied with a red ribbon, hand painted eggs in turquoise and gold, a blank cream gift box beside them on a white linen table, bright spring daylight, 50mm lens three-quarter angle, joyful renewal mood, empty space on the right", "shot": "صحنه‌آرایی با وسایل"}, {"note": "گل‌های سنبل رو برای تعداد غیرطبیعی شکوفه‌ها چک کن.", "prompt": "Empty mint green round podium surrounded by small pots of hyacinths in purple and white, soft pastel green backdrop, airy diffused light, 85mm lens eye level, fresh spring celebration mood, clear space above the podium", "shot": "سکوی خالی محصول"}, {"note": "آینه نباید انعکاس عجیب داشته باشه.", "prompt": "Overhead flat lay of red apples, gold coins as plain discs, dried sumac, garlic bulbs, a small round mirror and green sprouts on a turquoise patterned fabric, soft even daylight, 35mm lens top down, festive Persian spring mood, empty margin at the bottom", "shot": "فلت‌لی فصلی"}], "why_fa": "نوروز ۲۱ مارس و آمدن بهار، فروشگاه‌های آنلاین ایرانی و بین‌المللی رو دنبال عکس فصلی سبز و تازه با حس فرهنگی واقعی می‌فرسته."}, {"idea_fa": "شمع و خوشبوکننده‌ی خانگی برای اواخر زمستان", "prompts": [{"note": "شعله رو چک کن که شکل طبیعی داشته باشه.", "prompt": "Unbranded amber glass candle jar glowing on a stack of linen bound books beside a chunky knit throw and a ceramic mug, cozy window with soft snow light behind, 35mm lens at table height, warm hygge mood, open space above the candle", "shot": "صحنه‌آرایی با وسایل"}, {"note": "چوب‌های رطان باید صاف و جدا باشن.", "prompt": "Blank matte black reed diffuser bottle with natural rattan sticks and a plain white box on a dark slate surface, single moody side light, 85mm lens eye level, sophisticated evening mood, wide dark empty space on the left", "shot": "ماکاپ بسته‌بندی خالی"}, {"note": "", "prompt": "Full frame soft cream wool knit texture with chunky cable pattern and tiny fibers, warm low angle light from the left, 100mm macro lens, cozy tactile winter feel, even calm surface area for product placement", "shot": "بک‌گراند بافت"}], "why_fa": "فوریه هنوز فصل سرماست و برندهای کوچک شمع و عطر خانه برای ولنتاین و حس دنج زمستانی عکس صحنه‌آرایی شده لازم دارن."}, {"idea_fa": "ست حمام و مراقبت شخصی برای روز زن", "prompts": [{"note": "صابون‌ها نباید نوشته یا مُهر داشته باشن.", "prompt": "Overhead flat lay of handmade soap bars, a natural loofah, a folded waffle cotton towel and dried chamomile on a pale lilac surface, soft even daylight, 50mm lens top down, gentle self care mood, empty space in the upper right", "shot": "فلت‌لی فصلی"}, {"note": "", "prompt": "Blank white bath salt jar and glass bottles of oil on the edge of a freestanding bathtub, eucalyptus sprigs and steam in soft focus, morning light through frosted glass, 35mm lens side view, serene spa mood, open area on the left", "shot": "صحنه‌آرایی با وسایل"}, {"note": "قطره‌ها و حباب‌ها رو برای شکل غیرطبیعی چک کن.", "prompt": "Empty wet looking pale lavender podium with small water droplets, a few bubbles drifting, soft gradient lilac backdrop, clean studio light, 85mm lens eye level, fresh clean mood, large empty space above", "shot": "سکوی خالی محصول"}], "why_fa": "روز جهانی زن ۸ مارس و ترند All the Feels (بافت و حس لمسی) تقاضا برای عکس محصولات خودمراقبتی با بافت واقعی رو بالا می‌بره."}, {"idea_fa": "جعبه‌ی شیرینی عید فطر و معمول", "prompts": [{"note": "نقش روی کلوچه‌ها رو برای تکرار عجیب چک کن.", "prompt": "Blank ivory gift box with an open lid revealing rows of maamoul cookies dusted with powdered sugar, gold tissue paper, on a soft beige marble surface, warm side light, 50mm lens at 45 degrees, elegant Eid mood, empty space above", "shot": "ماکاپ بسته‌بندی خالی"}, {"note": "استکان‌ها و لبه‌ی سینی رو برای تقارن چک کن.", "prompt": "Ornate brass tray with small glasses of mint tea, assorted pastries and blank gold gift tins on a deep plum velvet tablecloth, string lights blurred in the background, 85mm lens low angle, festive warm mood, open dark space on the right", "shot": "صحنه‌آرایی با وسایل"}, {"note": "", "prompt": "Full frame deep emerald velvet fabric with soft folds and a sprinkle of fine gold dust, warm side light, 100mm macro lens, luxurious tactile festive feel, smooth calm area in the center for products", "shot": "بک‌گراند بافت"}], "why_fa": "عید فطر حدود ۹ مارس ۲۰۲۷ است و شیرینی‌فروشی‌های آنلاین و برندهای هدیه از اواسط رمضان دنبال تصویر جعبه‌ی شیرینی می‌گردن."}], "month": "2026-11", "sources": [{"title": "Adobe Stock: Create what's in demand (upload seasonal content early)", "url": "https://helpx.adobe.com/stock/contributor/help/artist-hub-migration/creat-what-s-in-demand.html"}, {"title": "How creators are leveraging Adobe's 2026 Creative Trends", "url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends"}, {"title": "Ramadan Begins – Feb. 8, 2027", "url": "https://nationaltoday.com/ramadan-begins/"}, {"title": "Lunar New Year dates and zodiac animals (Royal Museums Greenwich)", "url": "https://rmg.co.uk/stories/time/lunar-new-year-dates-animals-zodiac"}, {"title": "Whole Foods Market's top food and beverage trend predictions for 2027", "url": "https://press.aboutamazon.com/2026/10/whole-foods-market-reveals-its-top-food-and-beverage-trend-predictions-for-2027"}, {"title": "Squareshot: 7 creative product photography composition ideas for 2026", "url": "https://www.squareshot.com/post/7-creative-product-photography-composition-ideas-for-2026"}], "summary_fa": "طبق توصیه‌ی ادوبی محتوای فصلی رو حدود ۳ ماه زودتر آپلود کنید؛ فروشگاه‌های آنلاین در فوریه و مارس ۲۰۲۷ برای سال نو قمری (۶ فوریه)، رمضان (از ۸ فوریه)، ولنتاین، روز زن، عید فطر (حدود ۹ مارس) و نوروز کمپین دارن. بیشترین نیاز به سکوی خالی، صحنه‌ی محصول با وسایل فصلی و ماکاپ بسته‌بندی بدون برنده. ترندهای ادوبی All the Feels (بافت لمسی) و Local Flavor، و ترندهای غذایی ۲۰۲۷ مثل Beautrition، Terroir و Zero Waste 2.0 زاویه‌های کم‌رقابت‌تری می‌دن. برچسب‌ها و جعبه‌ها رو همیشه کاملاً خالی نگه دارید و از هر ایده فقط ۳ نسخه‌ی متفاوت بفرستید.", "title_fa": "گزارش نوامبر ۲۰۲۶ — برای فروش فوریه و اوایل مارس ۲۰۲۷"}, {"audience": "food", "created_at": "2026-11-02", "ideas": [{"idea_fa": "سفره‌ی افطار با خرما و سوپ عدس", "prompts": [{"note": "تعداد کاسه‌ها و قاشق‌ها رو برای ادغام چک کن.", "prompt": "Overhead view of an iftar table with bowls of red lentil soup, a plate of glossy dates, flatbread, fresh herbs and glasses of water on a deep blue patterned tablecloth, warm lantern light, 35mm lens top down, generous family table mood, empty space at one edge", "shot": "سفره از بالا"}, {"note": "", "prompt": "Single ceramic bowl of creamy red lentil soup with a swirl of olive oil, lemon wedge and toasted cumin on a warm sand colored table, soft evening side light, 85mm lens at 30 degrees, comforting mood, blurred lantern glow and empty space on the right", "shot": "غذای منو"}, {"note": "هسته‌ی خرماها رو برای شکل غیرطبیعی چک کن.", "prompt": "Close up of Medjool dates in a small brass bowl, some split to show the flesh, beside a glass of milk on dark walnut wood, warm golden light, 100mm macro lens, rich sticky texture, intimate Ramadan evening mood, dark empty space on the left", "shot": "مواد اولیه از نزدیک"}], "why_fa": "رمضان از ۸ فوریه ۲۰۲۷؛ رستوران‌ها، اپ‌های تحویل غذا و برندهای غذایی کمپین افطار رو چند هفته زودتر شروع می‌کنن."}, {"idea_fa": "دامپلینگ و نودل بلند سال نو قمری", "prompts": [{"note": "چین‌های دامپلینگ و چوب‌های غذا رو چک کن.", "prompt": "Bamboo steamer basket of pleated pork dumplings with a small dish of black vinegar and chili oil on a red lacquer table, rising steam, warm key light, 50mm lens at 45 degrees, festive appetizing mood, empty red space on the right", "shot": "غذای منو"}, {"note": "چشم و باله‌ی ماهی رو برای شکل عجیب چک کن.", "prompt": "Overhead view of a Lunar New Year family table with a whole steamed fish, long noodles, dumplings, mandarin oranges and small bowls of rice on a red tablecloth, soft warm light, 35mm lens top down, abundant celebratory mood, empty margin at the top", "shot": "سفره از بالا"}, {"note": "نودل‌ها نباید به هم جوش خورده یا بی‌پایان باشن.", "prompt": "Wok of long noodles tossed over a high flame in a home kitchen, glossy sauce, scallions and sesame in mid air, dramatic warm side light against a dark background, 50mm lens side view, energetic cooking mood, dark empty space above", "shot": "در حال پخت"}], "why_fa": "سال نو قمری ۶ فوریه ۲۰۲۷؛ رستوران‌های آسیایی و اپ‌های سفارش غذا تصویر غذاهای نمادین مثل دامپلینگ و نودل لازم دارن."}, {"idea_fa": "دسر شکلاتی و شام دونفره‌ی ولنتاین", "prompts": [{"note": "", "prompt": "Molten chocolate lava cake on a matte black plate with fresh raspberries and a dusting of cocoa, a glossy chocolate drip, single moody spotlight, 85mm lens at 30 degrees, indulgent romantic mood, deep dark empty space on the left", "shot": "غذای منو"}, {"note": "تعداد لیوان‌ها و چنگال‌ها رو چک کن.", "prompt": "Overhead view of a dinner for two with two plates of seared salmon, a shared salad, two wine glasses with red drink and a small candle on a dark linen tablecloth, warm candle light, 35mm lens top down, intimate mood, empty space between the plates", "shot": "سفره از بالا"}, {"note": "", "prompt": "Close up of broken dark chocolate shards, cocoa nibs and fresh strawberries on a rose pink stone surface, soft side light, 100mm macro lens, glossy and crumbly textures, sensual Valentine mood, empty space at the top", "shot": "مواد اولیه از نزدیک"}], "why_fa": "ولنتاین جزو پرخرج‌ترین روزهای سال برای رستوران‌ها و قنادی‌هاست و منو و تبلیغ شام دونفره از اوایل ژانویه آماده می‌شه."}, {"idea_fa": "کاسه‌ی لوبیا و عدس به‌عنوان غذای اصلی", "prompts": [{"note": "دونه‌های لوبیا رو برای تکرار یکنواخت چک کن.", "prompt": "Shallow ceramic bowl of brothy butter beans with garlic, lemon zest, olive oil and charred bread on a pale stone table, soft natural window light, 50mm lens at 45 degrees, cozy wholesome mood, empty space on the right", "shot": "غذای منو"}, {"note": "", "prompt": "Close up of heirloom beans in speckled purple, cream and black spilling from a linen sack onto rustic wood, warm low side light, 100mm macro lens, rich glossy and matte textures, earthy pantry mood, dark empty space at the top", "shot": "مواد اولیه از نزدیک"}, {"note": "", "prompt": "Overhead view of colorful lentil and crispy chickpea grain bowls with roasted vegetables, herbs and tahini drizzle on a terracotta table, bright daylight, 35mm lens top down, fresh plant based mood, generous empty margin at the bottom", "shot": "سفره از بالا"}], "why_fa": "«Bean Boom» یکی از ترندهای اصلی ۲۰۲۷ است؛ برندهای غذای سالم و رستوران‌ها دنبال تصویر خوش‌رنگ از غذای لوبیا و حبوبات هستن."}, {"idea_fa": "غذای آرامش‌بخش یوشوکو: کاری ژاپنی و املت‌برنج", "prompts": [{"note": "برش‌های کاتسو باید منظم و بدون ادغام باشن.", "prompt": "Plate of Japanese curry rice with golden breaded pork cutlet sliced on top, glossy brown curry sauce and pickled red vegetables on a cream ceramic plate, warm diner light, 50mm lens at 45 degrees, nostalgic comfort mood, empty space on the left", "shot": "غذای منو"}, {"note": "", "prompt": "Close up of a fluffy omurice with silky yellow omelette folded over ketchup rice, glossy demi glace sauce drizzle, 100mm macro lens, soft top light, smooth tender texture, cozy homestyle mood, warm blurred background with space above", "shot": "مواد اولیه از نزدیک"}, {"note": "لایه‌های ساندویچ رو چک کن.", "prompt": "Overhead view of a cafe lunch spread with a katsu sandwich on soft milk bread, a tamago sandwich, miso soup and green tea on a light wood table, bright daylight, 35mm lens top down, cheerful casual mood, empty space at the top right", "shot": "سفره از بالا"}], "why_fa": "ترند Yōshoku ووُل‌فودز برای ۲۰۲۷؛ رستوران‌ها و اپ‌های غذا دنبال عکس کاری‌رایس، اوموراییس و ساندویچ کاتسو هستن و عرضه‌اش هنوز کمه."}, {"idea_fa": "سالاد سبزیجات تلخ و نوشیدنی تلخ بدون الکل", "prompts": [{"note": "", "prompt": "Vibrant salad of radicchio, endive and blood orange segments with shaved fennel and walnuts on a white ceramic plate, crisp daylight from the side, 85mm lens at 30 degrees, fresh sophisticated mood, empty light grey space on the right", "shot": "غذای منو"}, {"note": "رگبرگ‌ها و قطره‌ها رو برای الگوی غیرطبیعی چک کن.", "prompt": "Close up of radicchio leaves with deep purple and white veins, dewy water droplets, on dark slate, moody side light, 100mm macro lens, crisp textured leaves, elegant bold palette, dark empty space on the left", "shot": "مواد اولیه از نزدیک"}, {"note": "", "prompt": "Overhead view of a bar counter with three amber nonalcoholic spritz glasses with orange peel and rosemary, small bowls of olives on green marble, warm golden evening light, 35mm lens top down, social aperitivo mood, empty space at the bottom", "shot": "سفره از بالا"}], "why_fa": "ترند «Bitter Done Better» ۲۰۲۷: رادیچیو، اندیو و نوشیدنی‌های تلخ بدون الکل؛ موضوعی تازه که عکس‌های کمی ازش هست."}, {"idea_fa": "غذاهای ترکیبی نو مثل رامن بیریا و تاکوی برگر", "prompts": [{"note": "نودل‌ها و برش گوشت رو چک کن.", "prompt": "Deep bowl of birria ramen with rich red chili broth, shredded braised beef, noodles, cilantro, onion and lime on a dark wooden table, rising steam, warm side light, 50mm lens at 45 degrees, bold hearty mood, empty dark space on the right", "shot": "غذای منو"}, {"note": "دود و چربی باید طبیعی دیده بشه.", "prompt": "Smash burger patties sizzling on a cast iron griddle with melting cheese and onions, small flour tortillas warming beside them, smoky backlight, 35mm lens low side angle, energetic street food mood, dark empty space above", "shot": "در حال پخت"}, {"note": "", "prompt": "Overhead view of a fusion party spread with crab rangoon dip, scallion pancakes cut in wedges, mango sticky rice ice cream and colorful sauces on a teal table, bright even light, 35mm lens top down, playful vivid mood, open space at the top", "shot": "سفره از بالا"}], "why_fa": "ترند Dish Reinvention برای ۲۰۲۷؛ رستوران‌ها و مجله‌های غذایی تصویر غذاهای ترکیبی جسور و رنگی برای منو و شبکه‌ی اجتماعی می‌خوان."}, {"idea_fa": "آشپزی بی‌زباله با نان و ته‌مانده‌ی سبزی", "prompts": [{"note": "", "prompt": "Pot of golden vegetable broth simmering with onion skins, carrot tops and herb stems on a gas stove in a rustic kitchen, soft steam, warm window light, 35mm lens side view, resourceful homey mood, empty wall space on the left", "shot": "در حال پخت"}, {"note": "", "prompt": "Plate of pasta tossed with crispy toasted breadcrumbs, garlic, chili flakes and parsley on a speckled stoneware plate, natural daylight, 85mm lens at 30 degrees, rustic honest mood, empty light linen space on the right", "shot": "غذای منو"}, {"note": "", "prompt": "Close up of stale sourdough bread ends, broccoli stems and citrus peels arranged on a worn wooden board, soft side light, 100mm macro lens, crusty and fibrous textures, earthy sustainable mood, empty space at the top", "shot": "مواد اولیه از نزدیک"}], "why_fa": "Zero Waste 2.0 از ترندهای ۲۰۲۷ است و وبلاگ‌ها و برندهای غذایی دنبال تصویر آشپزی بازیافتی واقعی هستن."}, {"idea_fa": "سبزی‌پلو با ماهی و کوکوسبزی نوروزی", "prompts": [{"note": "دونه‌های برنج و پوست ماهی رو چک کن.", "prompt": "Platter of fluffy green herb rice with a golden pan fried white fish fillet, lemon wedges and fresh herbs on a turquoise ceramic plate, bright spring daylight, 50mm lens at 45 degrees, festive Persian mood, empty space on the right", "shot": "غذای منو"}, {"note": "", "prompt": "Overhead view of a Nowruz lunch table with herb rice, a herb frittata cut into wedges, yogurt with cucumber, flatbread and a bowl of wheatgrass sprouts on a white embroidered tablecloth, soft daylight, 35mm lens top down, joyful spring mood, empty margin at the bottom", "shot": "سفره از بالا"}, {"note": "", "prompt": "Close up of fresh chopped dill, parsley, cilantro and fenugreek piled on a wooden board with saffron threads in a small brass dish, bright side light, 100mm macro lens, vivid green textures, fresh spring mood, empty space on the left", "shot": "مواد اولیه از نزدیک"}], "why_fa": "نوروز ۲۱ مارس؛ رستوران‌های ایرانی در سراسر دنیا و برندهای غذایی برای منوی نوروزی تصویر واقعی و باکیفیت کم دارن."}, {"idea_fa": "تخته‌ی پنیر و روغن زیتون و عسل منطقه‌ای", "prompts": [{"note": "شان عسل و برش‌های پنیر رو چک کن.", "prompt": "Overhead view of a rustic grazing board with aged hard cheese wedges, cured ham ribbons, honeycomb, figs, olives and a small dish of olive oil on weathered oak, warm afternoon light, 35mm lens top down, generous artisanal mood, empty space at the top", "shot": "سفره از بالا"}, {"note": "جریان روغن باید پیوسته و طبیعی باشه.", "prompt": "Close up of golden olive oil being poured slowly into a shallow ceramic dish with flakes of sea salt, backlit by warm sun, 100mm macro lens, glossy liquid texture, Mediterranean mood, soft blurred olive grove tones with space on the right", "shot": "مواد اولیه از نزدیک"}, {"note": "", "prompt": "Slice of toasted rustic bread with ricotta, drizzled regional honey and crushed pistachios on a small stoneware plate, soft side window light, 85mm lens at 30 degrees, simple elegant cafe mood, empty space on the left", "shot": "غذای منو"}], "why_fa": "ترند Terroir ۲۰۲۷ یعنی خریدارها اصالت منطقه‌ای می‌خوان؛ کافه‌ها و فروشگاه‌های اغذیه دنبال تصویر تخته‌ی پنیر و محصولات محلی هستن."}, {"idea_fa": "شیرینی و کلوچه‌ی عید فطر", "prompts": [{"note": "نقش کلوچه‌ها و فنجان رو چک کن.", "prompt": "Stack of maamoul cookies filled with dates, dusted with powdered sugar, on a small gold rimmed plate beside a cup of Arabic coffee, warm soft light, 85mm lens at 30 degrees, festive elegant mood, blurred string lights and empty space on the right", "shot": "غذای منو"}, {"note": "", "prompt": "Tray of freshly baked semolina cookies cooling on a rack in a warm home kitchen, light dusting of sugar in the air, golden oven glow from the side, 35mm lens side view, cozy family baking mood, empty space above", "shot": "در حال پخت"}, {"note": "", "prompt": "Overhead view of an Eid dessert table with baklava, date cookies, Turkish delight cubes and small glasses of tea on an ornate brass tray over a burgundy cloth, soft warm light, 35mm lens top down, abundant celebratory mood, empty margin on the left", "shot": "سفره از بالا"}], "why_fa": "عید فطر حدود ۹ مارس ۲۰۲۷؛ قنادی‌ها و برندهای غذایی از نیمه‌ی رمضان دنبال تصویر معمول، شیرینی خرمایی و سینی شیرینی هستن."}], "month": "2026-11", "sources": [{"title": "Adobe Stock: Create what's in demand (upload seasonal content early)", "url": "https://helpx.adobe.com/stock/contributor/help/artist-hub-migration/creat-what-s-in-demand.html"}, {"title": "How creators are leveraging Adobe's 2026 Creative Trends", "url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends"}, {"title": "Ramadan Begins – Feb. 8, 2027", "url": "https://nationaltoday.com/ramadan-begins/"}, {"title": "Lunar New Year dates and zodiac animals (Royal Museums Greenwich)", "url": "https://rmg.co.uk/stories/time/lunar-new-year-dates-animals-zodiac"}, {"title": "Whole Foods Market's top food and beverage trend predictions for 2027", "url": "https://press.aboutamazon.com/2026/10/whole-foods-market-reveals-its-top-food-and-beverage-trend-predictions-for-2027"}, {"title": "The Grocer: Whole Foods bets on bitter flavours, beans and beautrition for 2027", "url": "https://www.thegrocer.co.uk/news/whole-foods-bets-on-bitter-flavours-beans-and-beautrition-to-shape-grocery-in-2027/724862.article"}], "summary_fa": "این ماه برای فوریه و اوایل مارس ۲۰۲۷ کار کنید: سال نو قمری (۶ فوریه)، شروع رمضان و افطار (۸ فوریه)، شام ولنتاین، عید فطر (حدود ۹ مارس) و نوروز. ووُل‌فودز در اکتبر ۲۰۲۶ هشت ترند غذایی ۲۰۲۷ رو اعلام کرد: Bean Boom، Yōshoku (غذای غربی به سبک ژاپنی)، Bitter Done Better، Dish Reinvention، Terroir، Beautrition، Ingredient Minimalism و Zero Waste 2.0؛ این‌ها هنوز در استاک کم‌عرضه‌ان. نور طبیعی، بافت واقعی غذا و ظرف‌های دست‌ساز با ترند ادوبی All the Feels جور درمیاد. از دست در نمای نزدیک و برچسب خوانا پرهیز کنید و تعداد قاشق، لیوان و چوب غذا رو در زوم ۱۰۰٪ چک کنید.", "title_fa": "گزارش نوامبر ۲۰۲۶ — برای فروش فوریه و اوایل مارس ۲۰۲۷"}], "bank": null}
+{
+ "kind": "stock-prompt-pack",
+ "version": 1,
+ "created_at": "2026-11-08T19:09:01.000000Z",
+ "insight": {
+  "adobe_trends_year": 2026,
+  "created_at": "2026-11-02",
+  "month": "2026-11",
+  "ranking": [
+   {
+    "audience": "ecommerce",
+    "score": 5,
+    "why_fa": "Shops need seasonal backgrounds and product scenes for Valentine’s Day, Ramadan and Nowruz."
+   },
+   {
+    "audience": "food",
+    "score": 5,
+    "why_fa": "Ramadan and iftar, Easter and Valentine’s dinners: restaurants and food brands are already looking for menu and ad photos."
+   },
+   {
+    "audience": "b2b",
+    "score": 4,
+    "why_fa": "Tax and accounting season, spring renovation season and green logistics."
+   },
+   {
+    "audience": "realestate",
+    "score": 4,
+    "why_fa": "Spring is the peak for buying, selling and moving home and for redecorating."
+   },
+   {
+    "audience": "marketing",
+    "score": 4,
+    "why_fa": "Spring and Valentine’s campaigns; the Connectioneering trend (real moments between people) is popular."
+   },
+   {
+    "audience": "design",
+    "score": 4,
+    "why_fa": "Seasonal spring and Ramadan backgrounds for social media templates."
+   },
+   {
+    "audience": "travel",
+    "score": 3,
+    "why_fa": "Bookings for spring and summer trips start early in the year."
+   },
+   {
+    "audience": "health",
+    "score": 3,
+    "why_fa": "Health and wellness always sells, but competition is also high."
+   },
+   {
+    "audience": "content",
+    "score": 3,
+    "why_fa": "Articles on taxes, money and planning for the new year."
+   },
+   {
+    "audience": "education",
+    "score": 3,
+    "why_fa": "Spring exam season and enrolment in online courses."
+   }
+  ],
+  "season_fa": "This month we work for the February–April 2027 season: Valentine’s Day, Ramadan, Nowruz, Easter, tax season and the spring renovation and moving season.",
+  "sources": [
+   {
+    "title": "Adobe: Create what's in demand",
+    "url": "https://helpx.adobe.com/stock/contributor/help/artist-hub-migration/creat-what-s-in-demand.html"
+   },
+   {
+    "title": "Adobe 2026 Creative Trends",
+    "url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends"
+   },
+   {
+    "title": "Adobe forecasts creative trends for 2026 (release timing)",
+    "url": "https://ppc.land/adobe-forecasts-four-creative-trends-shaping-2026-advertising-campaigns/"
+   },
+   {
+    "title": "Best Selling Stock Photos in 2026",
+    "url": "https://autokeyworder.com/blog/best-selling-stock-photos-2026/"
+   },
+   {
+    "title": "Top Adobe Stock trending keywords of 2026",
+    "url": "https://cyberstock.lol/blog/stop-shooting-blind-the-top-adobe-stock-trending-keywords-of-2026"
+   }
+  ]
+ },
+ "trends": {
+  "checked_at": "2026-11-02",
+  "released": "2025-12",
+  "source_url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends",
+  "trends": [
+   {
+    "fa": "All the Feels (tactile)",
+    "value": "All the Feels: tactile, sensory materials and rich textures"
+   },
+   {
+    "fa": "Connectioneering (real collaboration)",
+    "value": "Connectioneering: candid, genuine connection between people"
+   },
+   {
+    "fa": "Local Flavor",
+    "value": "Local Flavor: authentic local, regional everyday settings and textures"
+   },
+   {
+    "fa": "Surreal Silliness",
+    "value": "Surreal Silliness: playful, unexpected surreal twist"
+   }
+  ],
+  "year": 2026
+ },
+ "reports": [
+  {
+   "audience": "b2b",
+   "created_at": "2026-11-02",
+   "ideas": [
+    {
+     "idea_fa": "Key cutting workshop and key duplicating machine",
+     "prompts": [
+      {
+       "note": "Check that the key teeth are not irregular or melted.",
+       "prompt": "Brass and nickel key blanks fanned out beside a single freshly cut key on a pale grey concrete slab, soft overhead softbox light, 100mm macro lens, crisp brushed metal texture with fine filing marks, calm minimal mood, wide empty space on the right",
+       "shot": "Clean product"
+      },
+      {
+       "note": "Check the machine parts and clamps for illogical shapes.",
+       "prompt": "Compact key duplicating machine on a worn wooden workbench in a small locksmith workshop, fine metal shavings around the clamp, warm tungsten desk lamp, 35mm lens at a low three-quarter angle, rows of blank hooks on a pegboard behind, cozy craftsman mood, empty wall space at top",
+       "shot": "In the workplace"
+      },
+      {
+       "note": "The background person’s face must stay blurred; check the hands.",
+       "prompt": "Small locksmith service counter seen from the customer side, glass tray of unbranded padlocks and door cylinders in sharp focus, a middle-aged craftsman softly blurred working at the back bench, cool morning daylight, 50mm lens, teal and steel palette, open space on the left",
+       "shot": "Person in the background"
+      }
+     ],
+     "why_fa": "Small businesses and local service trades are under-supplied B2B topics, and early in the year, as offices and tenants move, demand for keys and lock changes rises; this niche is different from last month’s ideas (shops and installation)."
+    },
+    {
+     "idea_fa": "Catering kitchen preparing iftar boxes",
+     "prompts": [
+      {
+       "note": "No labels or writing should appear on the boxes; check the rice grains.",
+       "prompt": "Stainless steel prep line in a commercial catering kitchen at dusk, rows of open kraft meal boxes filled with dates, rice and grilled vegetables, warm amber pendant light against blue window light, 35mm lens at a high side angle, gentle steam, empty counter space at front",
+       "shot": "In the workplace"
+      },
+      {
+       "note": "Check that the dates and the bread shapes are not repeated copies.",
+       "prompt": "Top-down flat lay of a single kraft iftar box with dates, a small bowl of lentil soup, flatbread and sliced cucumber on a dark walnut table, soft window light from the left, 50mm lens, rich earthy palette, wide empty space at the bottom",
+       "shot": "Flat lay"
+      },
+      {
+       "note": "People must be blurred and in profile; check the limbs.",
+       "prompt": "Wide view of a modern catering kitchen preparing evening orders, stacked insulated delivery bags on a steel shelf, two cooks in white aprons softly blurred in the background, cool fluorescent mixed with warm sunset glow, 24mm lens, clean professional mood, open ceiling space for copy",
+       "shot": "Wide view of the place"
+      }
+     ],
+     "why_fa": "Ramadan 2027 starts around 8 February, and restaurants, caterers and companies need pictures for corporate iftars and food-service ads; last month we only had gift boxes."
+    },
+    {
+     "idea_fa": "Print and packaging workshop for red-and-gold Lunar New Year",
+     "prompts": [
+      {
+       "note": "The gold pattern must not look like Chinese characters or writing.",
+       "prompt": "Extreme close-up of embossed red gift box paper with a gold foil pattern of abstract clouds, fine paper fibers and a slight foil sheen, raking side light, 100mm macro lens, rich crimson and gold palette, soft focus edge with empty area at top",
+       "shot": "Material close-up"
+      },
+      {
+       "note": "Check box corners and edges for warping and merging.",
+       "prompt": "Stacks of blank red gift boxes and folded gold-trimmed sleeves on a packing table in a small print and packaging workshop, a large cutting machine behind, bright cool daylight from tall windows, 35mm lens eye-level, organized busy mood, empty wall space on the left",
+       "shot": "In the workplace"
+      },
+      {
+       "note": "Check the leaves and the ribbon knot at 100% zoom.",
+       "prompt": "Single matte red gift box with a gold ribbon and a sprig of mandarin leaves on a seamless warm ivory background, soft diffused studio light, 85mm lens slightly from above, elegant festive mood, generous empty space on the right for a headline",
+       "shot": "Clean product"
+      }
+     ],
+     "why_fa": "Lunar New Year 2027 is around 6 February, and brands and shops look for packaging and seasonal production pictures from December and January; behind-the-scenes production is less supplied than the usual decorations."
+    },
+    {
+     "idea_fa": "Home health care for older adults",
+     "prompts": [
+      {
+       "note": "The blood pressure monitor screen must be blank, with no fake numbers or writing.",
+       "prompt": "Neat home care kit on a light oak side table, unbranded blood pressure monitor, weekly pill organizer, reading glasses and a glass of water, soft morning window light, 50mm lens at a slight high angle, calm reassuring pastel blue palette, empty space on the left",
+       "shot": "Clean product"
+      },
+      {
+       "note": "Check faces and hands; people should look natural and be in profile.",
+       "prompt": "Bright living room with a home care nurse in a teal uniform seen from the side, gently adjusting a cushion for an elderly woman in an armchair, both in soft focus behind a sharp medical bag on the table, warm daylight, 85mm lens, caring mood, open space at top",
+       "shot": "Person in the background"
+      },
+      {
+       "note": "",
+       "prompt": "A sturdy wooden walking cane leaning against a sunny window beside a potted lemon tree and a folded wool blanket, quiet independent living concept, golden afternoon light with long shadows, 35mm lens, warm cream and green palette, wide empty wall space on the right",
+       "shot": "Conceptual"
+      }
+     ],
+     "why_fa": "The silver economy is under-supplied according to 2026 keyword reports, and insurance, health and home-care companies are steady buyers of this topic."
+    },
+    {
+     "idea_fa": "Installing a heat pump and low-carbon heating in winter",
+     "prompts": [
+      {
+       "note": "Check fan blades and copper pipes for illogical joints.",
+       "prompt": "Outdoor heat pump unit being installed beside a brick wall of a small office building on a frosty winter morning, copper pipes and insulation foam visible, a technician in a navy jacket seen from behind, cold blue light, 35mm lens, practical mood, empty sky space at top",
+       "shot": "In the workplace"
+      },
+      {
+       "note": "",
+       "prompt": "Close-up of frosted aluminum heat exchanger fins with tiny ice crystals and a copper pipe joint, low side light catching the texture, 100mm macro lens, crisp silver and copper palette, shallow depth of field with a soft empty area on the left",
+       "shot": "Material close-up"
+      },
+      {
+       "note": "No writing or labels should appear on the units; check the pipe lines.",
+       "prompt": "Clean plant room in a commercial building with a row of matte white heat pumps, insulated pipes in tidy runs and a polished concrete floor, even daylight from a high window, 24mm lens symmetrical view, quiet efficient mood, open floor space at the bottom",
+       "shot": "Wide view of the place"
+      }
+     ],
+     "why_fa": "February is the peak of heating season, and sustainable technology (smart grid, clean energy) is one of the main demand waves of 2026; utilities and energy companies need real installation pictures."
+    },
+    {
+     "idea_fa": "Indoor vertical farm and urban agriculture",
+     "prompts": [
+      {
+       "note": "Leaves in the far rows must not melt into a repeated texture.",
+       "prompt": "Long aisle of a vertical farm with stacked trays of lettuce and basil under soft pink-white grow light, white metal racks and a clean epoxy floor, 24mm lens central perspective, fresh green and soft magenta palette, calm futuristic mood, empty ceiling space",
+       "shot": "Wide view of the place"
+      },
+      {
+       "note": "",
+       "prompt": "Macro view of young lettuce roots hanging in clear water below a white foam tray, fine root hairs and tiny bubbles, cool side light, 100mm macro lens, clean aqua and white palette, dark empty background on the right",
+       "shot": "Material close-up"
+      },
+      {
+       "note": "Check the face and hands of the background person.",
+       "prompt": "Crate of freshly harvested microgreens on a stainless steel packing table in an indoor farm, a young grower in a grey apron softly blurred checking racks behind, neutral daylight-balanced light, 50mm lens at table height, honest workday mood, open space at top left",
+       "shot": "Person in the background"
+      }
+     ],
+     "why_fa": "Urban farming and food security are 2026 sustainability keywords, and in winter, when outdoor growing is low, agritech and food supply-chain companies look for these pictures."
+    },
+    {
+     "idea_fa": "Biodegradable packaging for online shops",
+     "prompts": [
+      {
+       "note": "No writing or fake recycling symbols on the cardboard.",
+       "prompt": "Set of molded pulp packaging inserts and a natural cardboard mailer box arranged on a seamless sage green background, soft even studio light, 85mm lens slightly from above, matte fibrous texture, eco minimal mood, generous empty space on the left",
+       "shot": "Clean product"
+      },
+      {
+       "note": "",
+       "prompt": "Macro of mushroom mycelium packaging material broken in half, showing white fibrous strands and a rough organic edge, warm raking light, 100mm macro lens, earthy beige and white palette, shallow depth of field with a soft empty background at top",
+       "shot": "Material close-up"
+      },
+      {
+       "note": "No writing should appear on the paper label.",
+       "prompt": "Flat lay of compostable packaging samples on a light birch plywood table, paper tape roll, honeycomb paper wrap, cornstarch filler peanuts and a seed paper tag, soft overcast window light, 35mm lens top-down, natural neutral palette, wide empty space at bottom right",
+       "shot": "Flat lay"
+      }
+     ],
+     "why_fa": "Biodegradable packaging and the circular economy are on the 2026 sustainability keyword list; this idea focuses on the packaging material itself, not on packing orders at home as last month."
+    },
+    {
+     "idea_fa": "A realistic data centre: cooling and maintenance",
+     "prompts": [
+      {
+       "note": "Check pipe joints for illogical shapes.",
+       "prompt": "Close-up of insulated liquid cooling pipes and stainless quick-connect fittings behind a server rack, slight condensation and brushed metal texture, neutral white work light, 100mm macro lens, cool grey and blue palette, soft blurred empty background on the right",
+       "shot": "Material close-up"
+      },
+      {
+       "note": "Cables must not be tangled or melted; check the person’s profile.",
+       "prompt": "Data center maintenance aisle with an open rack door, neatly bundled grey and blue cables and a tool cart, a technician in a high visibility vest seen from the side at the far end, even overhead white light, 35mm lens, practical calm mood, empty floor space at front",
+       "shot": "In the workplace"
+      },
+      {
+       "note": "No signs or writing should appear on the building.",
+       "prompt": "Exterior of a modern data center campus at overcast dawn, low concrete buildings, rows of rooftop cooling units and a small solar array, wet asphalt reflections, 24mm lens wide angle, muted steel and slate palette, large empty sky for copy",
+       "shot": "Wide view of the place"
+      }
+     ],
+     "why_fa": "AI has raised demand for infrastructure and energy pictures, but glowing neon tech images are saturated; the realistic, industrial version in natural light is still under-supplied."
+    },
+    {
+     "idea_fa": "Wholesale flower supply chain before Valentine’s Day",
+     "prompts": [
+      {
+       "note": "Flowers in the back rows must not turn into a repeated texture.",
+       "prompt": "Wholesale flower cold room filled with tall buckets of red and blush roses, tulips and eucalyptus, metal racks and a concrete floor with a drain, cool blue refrigerated light, 24mm lens at hip height, fresh busy mood, empty space at top",
+       "shot": "Wide view of the place"
+      },
+      {
+       "note": "",
+       "prompt": "Bundle of long-stem red roses wrapped in plain kraft paper and twine lying on a pale grey steel table, soft diffused overhead light, 85mm lens at a low angle, clean commercial mood, wide empty background on the right",
+       "shot": "Clean product"
+      },
+      {
+       "note": "No writing on the boxes; check the person’s limbs.",
+       "prompt": "Corrugated flower shipping boxes stacked on a pallet at a loading dock at early morning, a florist worker in a beanie pushing a trolley softly blurred behind, warm sunrise light through the open dock door, 35mm lens, bustling seasonal mood, open space on the left",
+       "shot": "Person in the background"
+      }
+     ],
+     "why_fa": "Valentine’s Day, 14 February, is the year’s peak for wholesale florists and cold-chain logistics; the B2B angle means warehouse and transport, not the usual hearts and gifts."
+    },
+    {
+     "idea_fa": "Interior design material library and samples",
+     "prompts": [
+      {
+       "note": "",
+       "prompt": "Top-down flat lay of interior material samples, terrazzo tile, oak veneer, travertine, boucle fabric swatch and brushed brass chip on a warm linen board, soft north window light, 50mm lens, earthy terracotta and sand palette, empty space at top left",
+       "shot": "Flat lay"
+      },
+      {
+       "note": "",
+       "prompt": "Macro of a folded boucle fabric swatch resting on a polished travertine sample, visible loops of yarn and natural stone pores, warm low side light, 100mm macro lens, cream and stone palette, shallow focus with empty soft background at bottom",
+       "shot": "Material close-up"
+      },
+      {
+       "note": "No fake writing on boxes and shelves.",
+       "prompt": "Quiet material library in an architecture studio, tall birch shelves of plain unmarked sample boxes, a large worktable with fabric and stone swatches, bright diffused daylight from a skylight, 24mm lens, calm creative mood, open wall space on the right",
+       "shot": "Wide view of the place"
+      }
+     ],
+     "why_fa": "Adobe’s 2026 “All the feels” trend stresses sensory, detailed pictures; architecture, interior design and materials companies need these textures for catalogues and renovation-season ads."
+    },
+    {
+     "idea_fa": "Local handmade tile and ceramics workshop",
+     "prompts": [
+      {
+       "note": "The tile pattern must not look like letters or a specific symbol.",
+       "prompt": "Rows of freshly glazed handmade tiles in deep cobalt and turquoise drying on wooden racks in a small ceramic workshop, kiln door slightly open in the background, warm afternoon sun through a dusty window, 35mm lens, artisanal mood, empty wall space at top",
+       "shot": "In the workplace"
+      },
+      {
+       "note": "",
+       "prompt": "Close-up of a single handmade tile edge with crackled glaze, tiny pinholes and a chalky unglazed rim, raking side light, 100mm macro lens, cobalt and off-white palette, soft blurred workshop background with empty space on the right",
+       "shot": "Material close-up"
+      },
+      {
+       "note": "The craftsperson’s face and hands should be blurred; check the limbs.",
+       "prompt": "Stack of packed tile boxes tied with cotton string on a workshop floor ready for delivery, a ceramic artisan in a clay-stained apron softly blurred at the wheel behind, warm earthy light, 50mm lens at low angle, honest small-business mood, open space on the left",
+       "shot": "Person in the background"
+      }
+     ],
+     "why_fa": "Adobe’s 2026 “Local flavours” trend focuses on local makers and producers, and brands and building projects look for authentic, unposed production pictures."
+    },
+    {
+     "idea_fa": "Getting commercial buildings ready for winter storms and frost",
+     "prompts": [
+      {
+       "note": "Check pipe joints and the insulation tape.",
+       "prompt": "Copper water pipes being wrapped with grey foam insulation in a basement utility room of a commercial building, a utility work lamp casting warm light, 35mm lens at a low angle, concrete wall with fine dust, practical preventive mood, empty wall space at top",
+       "shot": "In the workplace"
+      },
+      {
+       "note": "No signs or writing should appear on the building.",
+       "prompt": "Small office building parking lot after overnight snowfall, a compact snow plow clearing a path near the entrance, salt-spread wet asphalt, soft overcast morning light, 24mm lens elevated view, cold white and slate palette, large empty snowy area at bottom",
+       "shot": "Wide view of the place"
+      },
+      {
+       "note": "No writing or strange buttons on the radio and torch.",
+       "prompt": "Sturdy red emergency storm kit bag open on a steel shelf in a facility storeroom, flashlight, folded thermal blankets, coil of rope and a portable radio, cool blue window light from a winter storm, 50mm lens, prepared resilient mood, empty space on the right",
+       "shot": "Conceptual"
+      }
+     ],
+     "why_fa": "Climate adaptation is a 2026 sustainability keyword, and in February facility managers, insurers and contractors need pictures of insulation, snow clearing and damage prevention."
+    }
+   ],
+   "month": "2026-11",
+   "sources": [
+    {
+     "title": "Creative Bloq: 4 creative trends for 2026, according to Adobe",
+     "url": "https://www.creativebloq.com/creative-inspiration/4-creative-trends-for-2026-according-to-adobe"
+    },
+    {
+     "title": "Top Adobe Stock trending keywords of 2026",
+     "url": "https://cyberstock.lol/blog/stop-shooting-blind-the-top-adobe-stock-trending-keywords-of-2026"
+    },
+    {
+     "title": "Best selling stock photos 2026 (incl. Adobe 3-month seasonal advice)",
+     "url": "https://autokeyworder.com/blog/best-selling-stock-photos-2026"
+    },
+    {
+     "title": "Adobe Stock rejection reasons and saturated categories",
+     "url": "https://autokeyworder.com/blog/adobe-stock-rejection-reasons"
+    },
+    {
+     "title": "When is Ramadan 2027? Monday, February 8",
+     "url": "https://outside.so/when-is/when-is-ramadan-2027"
+    },
+    {
+     "title": "Ramadan 2027 dates (Gulf News)",
+     "url": "https://gulfnews.com/uae/ramadan/when-is-ramadan-2027-the-expected-date-moon-sighting-and-eid-explained-1.500630523"
+    }
+   ],
+   "summary_fa": "Adobe recommends uploading seasonal content about 3 months early, so this month targets February 2027: Lunar New Year (about 6 February), the start of Ramadan (about 8 February), Valentine’s Day and the peak of heating and frost season. 2026 trends that are still under-supplied: sustainable technology (energy, biodegradable packaging, urban farming), the silver economy, and Adobe’s “All the feels” (texture and sensory detail) and “Local flavours” (local makers). Buyers prefer a real, slightly imperfect look to glossy artificial AI. Avoid saturated topics: generic office meetings, neon tech, abstract charts and data, spring blossom and the default AI face; send at most 3 different versions of each idea in one batch.",
+   "title_fa": "November 2026 report — for February and early March 2027 sales"
+  },
+  {
+   "audience": "ecommerce",
+   "created_at": "2026-11-02",
+   "ideas": [
+    {
+     "idea_fa": "Empty plaster podium for Valentine’s skincare products",
+     "prompts": [
+      {
+       "note": "Check that the podium edge is smooth and round and the petals look natural.",
+       "prompt": "Empty round plaster podium in dusty rose on a blush seamless backdrop, a few dried red rose petals scattered at its base, soft diffused window light from the left, 85mm lens at eye level, matte chalky texture, romantic calm mood, generous empty space above the podium",
+       "shot": "Empty product podium"
+      },
+      {
+       "note": "Check droppers and bottle caps for strange shapes.",
+       "prompt": "Two blank frosted glass serum bottles with rose gold caps on a cream linen cloth beside a small bunch of dried baby roses and a satin ribbon, warm late afternoon sunlight with soft shadows, 50mm lens three-quarter angle, intimate gentle mood, open space on the right",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "",
+       "prompt": "Full frame crumpled silk fabric in deep burgundy and soft pink folds, low raking light creating glossy highlights and deep shadows, 100mm macro lens, rich tactile sensual texture, elegant Valentine mood, smooth calm area in the upper left for product placement",
+       "shot": "Texture background"
+      }
+     ],
+     "why_fa": "Valentine’s Day 2027 is the peak for skincare gifts in online shops, and small brands need empty podiums with a seasonal feel for their own product photos."
+    },
+    {
+     "idea_fa": "Ramadan gift box with dates and a lantern",
+     "prompts": [
+      {
+       "note": "Check the dates for repetition or melted shapes.",
+       "prompt": "Blank matte emerald green gift box with gold foil edges, lid slightly open showing rows of glossy Medjool dates on parchment, set on a warm sand colored stone surface, soft evening light, 50mm lens at 45 degrees, festive calm mood, wide empty space above",
+       "shot": "Blank packaging mockup"
+      },
+      {
+       "note": "Check that the lantern’s hole pattern is regular.",
+       "prompt": "Brass Moroccan style lantern glowing softly beside small unbranded kraft gift boxes tied with twine and a ceramic bowl of dates, deep indigo dusk background, warm candle glow, 35mm lens low angle, cozy Ramadan evening mood, open dark space on the left",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "Check pistachios and dates for irregular shapes.",
+       "prompt": "Overhead flat lay of a woven tray with dates, dried apricots, pistachios and small blank gold tins on a deep teal linen tablecloth, crescent shaped brass decor, soft even daylight, 35mm lens top down, generous empty margin at the bottom",
+       "shot": "Seasonal flat lay"
+      }
+     ],
+     "why_fa": "Ramadan starts on 8 February 2027, and shops and small brands launch Ramadan gift basket campaigns from January."
+    },
+    {
+     "idea_fa": "Red and gold Lunar New Year packaging",
+     "prompts": [
+      {
+       "note": "Check the mandarin leaves and the ribbon knot.",
+       "prompt": "Stack of blank glossy red gift boxes with gold ribbon bands on a polished dark walnut table, a few mandarin oranges with leaves beside them, warm golden key light, 85mm lens eye level, prosperous festive mood, empty red backdrop space on the right",
+       "shot": "Blank packaging mockup"
+      },
+      {
+       "note": "",
+       "prompt": "Empty cylindrical red lacquer podium on a gold paper backdrop, soft paper lantern glow blurred in the background, small scattered gold coins shaped as plain discs at the base, 50mm lens straight on, luxurious celebratory mood, wide clear space above the podium",
+       "shot": "Empty product podium"
+      },
+      {
+       "note": "",
+       "prompt": "Full frame handmade red mulberry paper with visible fibers and fine gold leaf flakes, soft side light revealing texture, 100mm macro lens, warm festive tactile feel, smooth calm center area for design overlay",
+       "shot": "Texture background"
+      }
+     ],
+     "why_fa": "Lunar New Year is 6 February 2027, and online shops need red-and-gold packaging pictures without specific symbols for gift and sale campaigns."
+    },
+    {
+     "idea_fa": "Beauty supplement and collagen jar mockup",
+     "prompts": [
+      {
+       "note": "Check the glass surfaces for unnatural reflections.",
+       "prompt": "Three blank amber glass supplement jars with matte white lids on a pale peach terrazzo surface, a scoop of light pink powder in a ceramic spoon, bright soft morning light, 50mm lens three-quarter view, clean wellness mood, empty space on the left",
+       "shot": "Blank packaging mockup"
+      },
+      {
+       "note": "",
+       "prompt": "Unbranded pouch of collagen powder standing beside fresh cucumber slices, a glass of pale pink drink and a sprig of mint on a white marble counter, airy kitchen daylight, 35mm lens slight high angle, fresh healthy mood, open space above",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "Check the leaf shadows for unnatural shapes.",
+       "prompt": "Empty stepped podium of pale sage and cream stone blocks, soft palm leaf shadow falling across it, sunny diffused light, 85mm lens eye level, calm spa like mood, large empty area above the top step",
+       "shot": "Empty product podium"
+      }
+     ],
+     "why_fa": "Whole Foods’ 2027 trend is “beauty through nutrition” (Beautrition), and small supplement and collagen powder brands need blank packaging mockups."
+    },
+    {
+     "idea_fa": "Zero-waste refill and kraft packaging",
+     "prompts": [
+      {
+       "note": "Labels must stay completely blank; check for random letters.",
+       "prompt": "Blank kraft paper stand up pouches and plain glass refill jars filled with oats and lentils on a reclaimed wood shelf, soft natural side light, 50mm lens straight on, earthy beige and olive palette, honest sustainable mood, empty wall space on the top",
+       "shot": "Blank packaging mockup"
+      },
+      {
+       "note": "",
+       "prompt": "Overhead flat lay of reusable cotton produce bags, a bamboo brush, a glass bottle and dried orange slices on a recycled grey paper background, soft even daylight, 35mm lens top down, calm eco mood, generous empty space in the center",
+       "shot": "Seasonal flat lay"
+      },
+      {
+       "note": "",
+       "prompt": "Full frame recycled cardboard texture with visible fibers and small flecks, warm low side light, 100mm macro lens, rustic tactile feel, neutral brown tones, clean even area for product cutouts",
+       "shot": "Texture background"
+      }
+     ],
+     "why_fa": "The Zero Waste 2.0 trend and focus on sustainability make brands look for photos of unbranded kraft pouches and refill jars; this is still less supplied than plastic packaging."
+    },
+    {
+     "idea_fa": "Unlabelled olive oil bottle and local honey jar",
+     "prompts": [
+      {
+       "note": "Check the olive leaves and the cork.",
+       "prompt": "Blank dark green glass olive oil bottle with a plain cream paper tag on a weathered limestone slab, a small branch of olives with leaves beside it, warm Mediterranean sunlight, 85mm lens eye level, earthy authentic mood, empty sunlit wall on the right",
+       "shot": "Blank packaging mockup"
+      },
+      {
+       "note": "Check the honeycomb cells for a messy pattern.",
+       "prompt": "Unlabeled glass jars of amber honey with wooden dippers on a rustic oak table, a piece of honeycomb on parchment and dried lavender, golden backlight through the honey, 50mm lens low angle, warm farm mood, open space above",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "",
+       "prompt": "Empty rough terracotta podium on a warm ochre backdrop, a few olive sprigs and wheat stems leaning at the side, soft directional sunlight with long shadow, 50mm lens straight on, rustic regional mood, clear space above the podium",
+       "shot": "Empty product podium"
+      }
+     ],
+     "why_fa": "The 2027 “Terroir” trend means products with regional authenticity; online grocery and local-product shops need clean photos of unbranded bottles and jars."
+    },
+    {
+     "idea_fa": "Handmade ceramic jewellery dish for gifts",
+     "prompts": [
+      {
+       "note": "Check rings and chain links for merging or breaks.",
+       "prompt": "Handmade speckled ceramic ring dish holding delicate gold rings and a thin chain, on a soft oatmeal linen next to a small vase of dried flowers, gentle morning window light, 100mm macro lens, warm intimate mood, empty space on the left",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "",
+       "prompt": "Empty small travertine riser with a single folded ivory silk ribbon beside it, soft blush backdrop, diffused studio light, 85mm lens eye level, refined minimal mood, wide empty area for a jewelry product",
+       "shot": "Empty product podium"
+      },
+      {
+       "note": "The card must be blank; check the earrings for symmetry.",
+       "prompt": "Overhead flat lay of a blank cream jewelry box, pressed pink tulips, a handwritten style blank card and gold hoop earrings on pale pink paper, soft even daylight, 50mm lens top down, tender feminine mood, generous empty space at the top",
+       "shot": "Seasonal flat lay"
+      }
+     ],
+     "why_fa": "Valentine’s Day and International Women’s Day (8 March) boost sales of jewellery and handmade gifts, and the Local Flavor trend wants a local-maker feel."
+    },
+    {
+     "idea_fa": "Nowruz scene with sprouts and coloured eggs for spring products",
+     "prompts": [
+      {
+       "note": "Check the egg patterns and sprout stems for strange shapes.",
+       "prompt": "Fresh green wheatgrass sprouts in a low ceramic bowl tied with a red ribbon, hand painted eggs in turquoise and gold, a blank cream gift box beside them on a white linen table, bright spring daylight, 50mm lens three-quarter angle, joyful renewal mood, empty space on the right",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "Check the hyacinths for an unnatural number of blooms.",
+       "prompt": "Empty mint green round podium surrounded by small pots of hyacinths in purple and white, soft pastel green backdrop, airy diffused light, 85mm lens eye level, fresh spring celebration mood, clear space above the podium",
+       "shot": "Empty product podium"
+      },
+      {
+       "note": "The mirror must not have strange reflections.",
+       "prompt": "Overhead flat lay of red apples, gold coins as plain discs, dried sumac, garlic bulbs, a small round mirror and green sprouts on a turquoise patterned fabric, soft even daylight, 35mm lens top down, festive Persian spring mood, empty margin at the bottom",
+       "shot": "Seasonal flat lay"
+      }
+     ],
+     "why_fa": "Nowruz on 21 March and the arrival of spring send Iranian and international online shops looking for fresh green seasonal photos with a real cultural feel."
+    },
+    {
+     "idea_fa": "Home candles and diffusers for late winter",
+     "prompts": [
+      {
+       "note": "Check that the flame has a natural shape.",
+       "prompt": "Unbranded amber glass candle jar glowing on a stack of linen bound books beside a chunky knit throw and a ceramic mug, cozy window with soft snow light behind, 35mm lens at table height, warm hygge mood, open space above the candle",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "Rattan sticks must be straight and separate.",
+       "prompt": "Blank matte black reed diffuser bottle with natural rattan sticks and a plain white box on a dark slate surface, single moody side light, 85mm lens eye level, sophisticated evening mood, wide dark empty space on the left",
+       "shot": "Blank packaging mockup"
+      },
+      {
+       "note": "",
+       "prompt": "Full frame soft cream wool knit texture with chunky cable pattern and tiny fibers, warm low angle light from the left, 100mm macro lens, cozy tactile winter feel, even calm surface area for product placement",
+       "shot": "Texture background"
+      }
+     ],
+     "why_fa": "February is still cold, and small candle and home fragrance brands need styled photos for Valentine’s Day and a cosy winter feel."
+    },
+    {
+     "idea_fa": "Bath and self-care set for Women’s Day",
+     "prompts": [
+      {
+       "note": "Soaps must have no writing or stamps.",
+       "prompt": "Overhead flat lay of handmade soap bars, a natural loofah, a folded waffle cotton towel and dried chamomile on a pale lilac surface, soft even daylight, 50mm lens top down, gentle self care mood, empty space in the upper right",
+       "shot": "Seasonal flat lay"
+      },
+      {
+       "note": "",
+       "prompt": "Blank white bath salt jar and glass bottles of oil on the edge of a freestanding bathtub, eucalyptus sprigs and steam in soft focus, morning light through frosted glass, 35mm lens side view, serene spa mood, open area on the left",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "Check drops and bubbles for unnatural shapes.",
+       "prompt": "Empty wet looking pale lavender podium with small water droplets, a few bubbles drifting, soft gradient lilac backdrop, clean studio light, 85mm lens eye level, fresh clean mood, large empty space above",
+       "shot": "Empty product podium"
+      }
+     ],
+     "why_fa": "International Women’s Day on 8 March and the All the Feels trend (tactile texture) raise demand for photos of self-care products with real texture."
+    },
+    {
+     "idea_fa": "Eid al-Fitr sweets and maamoul box",
+     "prompts": [
+      {
+       "note": "Check the cookie patterns for strange repetition.",
+       "prompt": "Blank ivory gift box with an open lid revealing rows of maamoul cookies dusted with powdered sugar, gold tissue paper, on a soft beige marble surface, warm side light, 50mm lens at 45 degrees, elegant Eid mood, empty space above",
+       "shot": "Blank packaging mockup"
+      },
+      {
+       "note": "Check the tea glasses and the tray rim for symmetry.",
+       "prompt": "Ornate brass tray with small glasses of mint tea, assorted pastries and blank gold gift tins on a deep plum velvet tablecloth, string lights blurred in the background, 85mm lens low angle, festive warm mood, open dark space on the right",
+       "shot": "Prop styling"
+      },
+      {
+       "note": "",
+       "prompt": "Full frame deep emerald velvet fabric with soft folds and a sprinkle of fine gold dust, warm side light, 100mm macro lens, luxurious tactile festive feel, smooth calm area in the center for products",
+       "shot": "Texture background"
+      }
+     ],
+     "why_fa": "Eid al-Fitr is around 9 March 2027, and online sweet shops and gift brands look for sweet box pictures from mid-Ramadan."
+    }
+   ],
+   "month": "2026-11",
+   "sources": [
+    {
+     "title": "Adobe Stock: Create what's in demand (upload seasonal content early)",
+     "url": "https://helpx.adobe.com/stock/contributor/help/artist-hub-migration/creat-what-s-in-demand.html"
+    },
+    {
+     "title": "How creators are leveraging Adobe's 2026 Creative Trends",
+     "url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends"
+    },
+    {
+     "title": "Ramadan Begins – Feb. 8, 2027",
+     "url": "https://nationaltoday.com/ramadan-begins/"
+    },
+    {
+     "title": "Lunar New Year dates and zodiac animals (Royal Museums Greenwich)",
+     "url": "https://rmg.co.uk/stories/time/lunar-new-year-dates-animals-zodiac"
+    },
+    {
+     "title": "Whole Foods Market's top food and beverage trend predictions for 2027",
+     "url": "https://press.aboutamazon.com/2026/10/whole-foods-market-reveals-its-top-food-and-beverage-trend-predictions-for-2027"
+    },
+    {
+     "title": "Squareshot: 7 creative product photography composition ideas for 2026",
+     "url": "https://www.squareshot.com/post/7-creative-product-photography-composition-ideas-for-2026"
+    }
+   ],
+   "summary_fa": "Adobe recommends uploading seasonal content about 3 months early; in February and March 2027 online shops run campaigns for Lunar New Year (6 February), Ramadan (from 8 February), Valentine’s Day, Women’s Day, Eid al-Fitr (about 9 March) and Nowruz. The biggest needs are empty podiums, product scenes with seasonal props and unbranded packaging mockups. Adobe’s All the Feels (tactile texture) and Local Flavor trends, and 2027 food trends such as Beautrition, Terroir and Zero Waste 2.0, offer less competitive angles. Always keep labels and boxes completely blank and send only 3 different versions of each idea.",
+   "title_fa": "November 2026 report — for February and early March 2027 sales"
+  },
+  {
+   "audience": "food",
+   "created_at": "2026-11-02",
+   "ideas": [
+    {
+     "idea_fa": "Iftar table with dates and lentil soup",
+     "prompts": [
+      {
+       "note": "Check the number of bowls and spoons for merging.",
+       "prompt": "Overhead view of an iftar table with bowls of red lentil soup, a plate of glossy dates, flatbread, fresh herbs and glasses of water on a deep blue patterned tablecloth, warm lantern light, 35mm lens top down, generous family table mood, empty space at one edge",
+       "shot": "Table from above"
+      },
+      {
+       "note": "",
+       "prompt": "Single ceramic bowl of creamy red lentil soup with a swirl of olive oil, lemon wedge and toasted cumin on a warm sand colored table, soft evening side light, 85mm lens at 30 degrees, comforting mood, blurred lantern glow and empty space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "Check the date pits for unnatural shapes.",
+       "prompt": "Close up of Medjool dates in a small brass bowl, some split to show the flesh, beside a glass of milk on dark walnut wood, warm golden light, 100mm macro lens, rich sticky texture, intimate Ramadan evening mood, dark empty space on the left",
+       "shot": "Ingredients close-up"
+      }
+     ],
+     "why_fa": "Ramadan from 8 February 2027; restaurants, food delivery apps and food brands start iftar campaigns a few weeks early."
+    },
+    {
+     "idea_fa": "Lunar New Year dumplings and long noodles",
+     "prompts": [
+      {
+       "note": "Check the dumpling pleats and chopsticks.",
+       "prompt": "Bamboo steamer basket of pleated pork dumplings with a small dish of black vinegar and chili oil on a red lacquer table, rising steam, warm key light, 50mm lens at 45 degrees, festive appetizing mood, empty red space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "Check the fish’s eyes and fins for strange shapes.",
+       "prompt": "Overhead view of a Lunar New Year family table with a whole steamed fish, long noodles, dumplings, mandarin oranges and small bowls of rice on a red tablecloth, soft warm light, 35mm lens top down, abundant celebratory mood, empty margin at the top",
+       "shot": "Table from above"
+      },
+      {
+       "note": "Noodles must not be fused together or endless.",
+       "prompt": "Wok of long noodles tossed over a high flame in a home kitchen, glossy sauce, scallions and sesame in mid air, dramatic warm side light against a dark background, 50mm lens side view, energetic cooking mood, dark empty space above",
+       "shot": "Cooking in progress"
+      }
+     ],
+     "why_fa": "Lunar New Year on 6 February 2027; Asian restaurants and food ordering apps need pictures of symbolic dishes such as dumplings and noodles."
+    },
+    {
+     "idea_fa": "Chocolate dessert and Valentine’s dinner for two",
+     "prompts": [
+      {
+       "note": "",
+       "prompt": "Molten chocolate lava cake on a matte black plate with fresh raspberries and a dusting of cocoa, a glossy chocolate drip, single moody spotlight, 85mm lens at 30 degrees, indulgent romantic mood, deep dark empty space on the left",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "Check the number of glasses and forks.",
+       "prompt": "Overhead view of a dinner for two with two plates of seared salmon, a shared salad, two wine glasses with red drink and a small candle on a dark linen tablecloth, warm candle light, 35mm lens top down, intimate mood, empty space between the plates",
+       "shot": "Table from above"
+      },
+      {
+       "note": "",
+       "prompt": "Close up of broken dark chocolate shards, cocoa nibs and fresh strawberries on a rose pink stone surface, soft side light, 100mm macro lens, glossy and crumbly textures, sensual Valentine mood, empty space at the top",
+       "shot": "Ingredients close-up"
+      }
+     ],
+     "why_fa": "Valentine’s Day is one of the biggest-spending days of the year for restaurants and pastry shops, and dinner-for-two menus and ads are prepared from early January."
+    },
+    {
+     "idea_fa": "Bean and lentil bowl as a main dish",
+     "prompts": [
+      {
+       "note": "Check the beans for uniform repetition.",
+       "prompt": "Shallow ceramic bowl of brothy butter beans with garlic, lemon zest, olive oil and charred bread on a pale stone table, soft natural window light, 50mm lens at 45 degrees, cozy wholesome mood, empty space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "",
+       "prompt": "Close up of heirloom beans in speckled purple, cream and black spilling from a linen sack onto rustic wood, warm low side light, 100mm macro lens, rich glossy and matte textures, earthy pantry mood, dark empty space at the top",
+       "shot": "Ingredients close-up"
+      },
+      {
+       "note": "",
+       "prompt": "Overhead view of colorful lentil and crispy chickpea grain bowls with roasted vegetables, herbs and tahini drizzle on a terracotta table, bright daylight, 35mm lens top down, fresh plant based mood, generous empty margin at the bottom",
+       "shot": "Table from above"
+      }
+     ],
+     "why_fa": "“Bean Boom” is one of the main 2027 trends; healthy food brands and restaurants look for colourful pictures of bean and pulse dishes."
+    },
+    {
+     "idea_fa": "Yōshoku comfort food: Japanese curry and omurice",
+     "prompts": [
+      {
+       "note": "Katsu slices must be even and not merged.",
+       "prompt": "Plate of Japanese curry rice with golden breaded pork cutlet sliced on top, glossy brown curry sauce and pickled red vegetables on a cream ceramic plate, warm diner light, 50mm lens at 45 degrees, nostalgic comfort mood, empty space on the left",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "",
+       "prompt": "Close up of a fluffy omurice with silky yellow omelette folded over ketchup rice, glossy demi glace sauce drizzle, 100mm macro lens, soft top light, smooth tender texture, cozy homestyle mood, warm blurred background with space above",
+       "shot": "Ingredients close-up"
+      },
+      {
+       "note": "Check the sandwich layers.",
+       "prompt": "Overhead view of a cafe lunch spread with a katsu sandwich on soft milk bread, a tamago sandwich, miso soup and green tea on a light wood table, bright daylight, 35mm lens top down, cheerful casual mood, empty space at the top right",
+       "shot": "Table from above"
+      }
+     ],
+     "why_fa": "Whole Foods’ Yōshoku trend for 2027; restaurants and food apps look for photos of curry rice, omurice and katsu sandwiches, and supply is still low."
+    },
+    {
+     "idea_fa": "Bitter greens salad and alcohol-free bitter drink",
+     "prompts": [
+      {
+       "note": "",
+       "prompt": "Vibrant salad of radicchio, endive and blood orange segments with shaved fennel and walnuts on a white ceramic plate, crisp daylight from the side, 85mm lens at 30 degrees, fresh sophisticated mood, empty light grey space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "Check leaf veins and drops for unnatural patterns.",
+       "prompt": "Close up of radicchio leaves with deep purple and white veins, dewy water droplets, on dark slate, moody side light, 100mm macro lens, crisp textured leaves, elegant bold palette, dark empty space on the left",
+       "shot": "Ingredients close-up"
+      },
+      {
+       "note": "",
+       "prompt": "Overhead view of a bar counter with three amber nonalcoholic spritz glasses with orange peel and rosemary, small bowls of olives on green marble, warm golden evening light, 35mm lens top down, social aperitivo mood, empty space at the bottom",
+       "shot": "Table from above"
+      }
+     ],
+     "why_fa": "The 2027 “Bitter Done Better” trend: radicchio, endive and alcohol-free bitter drinks; a fresh topic with few photos so far."
+    },
+    {
+     "idea_fa": "New fusion dishes such as birria ramen and burger tacos",
+     "prompts": [
+      {
+       "note": "Check the noodles and the meat slices.",
+       "prompt": "Deep bowl of birria ramen with rich red chili broth, shredded braised beef, noodles, cilantro, onion and lime on a dark wooden table, rising steam, warm side light, 50mm lens at 45 degrees, bold hearty mood, empty dark space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "Steam and fat must look natural.",
+       "prompt": "Smash burger patties sizzling on a cast iron griddle with melting cheese and onions, small flour tortillas warming beside them, smoky backlight, 35mm lens low side angle, energetic street food mood, dark empty space above",
+       "shot": "Cooking in progress"
+      },
+      {
+       "note": "",
+       "prompt": "Overhead view of a fusion party spread with crab rangoon dip, scallion pancakes cut in wedges, mango sticky rice ice cream and colorful sauces on a teal table, bright even light, 35mm lens top down, playful vivid mood, open space at the top",
+       "shot": "Table from above"
+      }
+     ],
+     "why_fa": "The Dish Reinvention trend for 2027; restaurants and food magazines want bold, colourful fusion dish pictures for menus and social media."
+    },
+    {
+     "idea_fa": "Zero-waste cooking with bread and vegetable scraps",
+     "prompts": [
+      {
+       "note": "",
+       "prompt": "Pot of golden vegetable broth simmering with onion skins, carrot tops and herb stems on a gas stove in a rustic kitchen, soft steam, warm window light, 35mm lens side view, resourceful homey mood, empty wall space on the left",
+       "shot": "Cooking in progress"
+      },
+      {
+       "note": "",
+       "prompt": "Plate of pasta tossed with crispy toasted breadcrumbs, garlic, chili flakes and parsley on a speckled stoneware plate, natural daylight, 85mm lens at 30 degrees, rustic honest mood, empty light linen space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "",
+       "prompt": "Close up of stale sourdough bread ends, broccoli stems and citrus peels arranged on a worn wooden board, soft side light, 100mm macro lens, crusty and fibrous textures, earthy sustainable mood, empty space at the top",
+       "shot": "Ingredients close-up"
+      }
+     ],
+     "why_fa": "Zero Waste 2.0 is a 2027 trend, and food blogs and brands look for real pictures of upcycled cooking."
+    },
+    {
+     "idea_fa": "Nowruz herb rice with fish and herb frittata",
+     "prompts": [
+      {
+       "note": "Check the rice grains and the fish skin.",
+       "prompt": "Platter of fluffy green herb rice with a golden pan fried white fish fillet, lemon wedges and fresh herbs on a turquoise ceramic plate, bright spring daylight, 50mm lens at 45 degrees, festive Persian mood, empty space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "",
+       "prompt": "Overhead view of a Nowruz lunch table with herb rice, a herb frittata cut into wedges, yogurt with cucumber, flatbread and a bowl of wheatgrass sprouts on a white embroidered tablecloth, soft daylight, 35mm lens top down, joyful spring mood, empty margin at the bottom",
+       "shot": "Table from above"
+      },
+      {
+       "note": "",
+       "prompt": "Close up of fresh chopped dill, parsley, cilantro and fenugreek piled on a wooden board with saffron threads in a small brass dish, bright side light, 100mm macro lens, vivid green textures, fresh spring mood, empty space on the left",
+       "shot": "Ingredients close-up"
+      }
+     ],
+     "why_fa": "Nowruz on 21 March; Iranian restaurants worldwide and food brands lack real, high-quality pictures for Nowruz menus."
+    },
+    {
+     "idea_fa": "Cheese board with regional olive oil and honey",
+     "prompts": [
+      {
+       "note": "Check the honeycomb and the cheese slices.",
+       "prompt": "Overhead view of a rustic grazing board with aged hard cheese wedges, cured ham ribbons, honeycomb, figs, olives and a small dish of olive oil on weathered oak, warm afternoon light, 35mm lens top down, generous artisanal mood, empty space at the top",
+       "shot": "Table from above"
+      },
+      {
+       "note": "The oil stream must be continuous and natural.",
+       "prompt": "Close up of golden olive oil being poured slowly into a shallow ceramic dish with flakes of sea salt, backlit by warm sun, 100mm macro lens, glossy liquid texture, Mediterranean mood, soft blurred olive grove tones with space on the right",
+       "shot": "Ingredients close-up"
+      },
+      {
+       "note": "",
+       "prompt": "Slice of toasted rustic bread with ricotta, drizzled regional honey and crushed pistachios on a small stoneware plate, soft side window light, 85mm lens at 30 degrees, simple elegant cafe mood, empty space on the left",
+       "shot": "Menu dish"
+      }
+     ],
+     "why_fa": "The 2027 Terroir trend means buyers want regional authenticity; cafés and delis look for pictures of cheese boards and local products."
+    },
+    {
+     "idea_fa": "Eid al-Fitr sweets and cookies",
+     "prompts": [
+      {
+       "note": "Check the cookie patterns and the cup.",
+       "prompt": "Stack of maamoul cookies filled with dates, dusted with powdered sugar, on a small gold rimmed plate beside a cup of Arabic coffee, warm soft light, 85mm lens at 30 degrees, festive elegant mood, blurred string lights and empty space on the right",
+       "shot": "Menu dish"
+      },
+      {
+       "note": "",
+       "prompt": "Tray of freshly baked semolina cookies cooling on a rack in a warm home kitchen, light dusting of sugar in the air, golden oven glow from the side, 35mm lens side view, cozy family baking mood, empty space above",
+       "shot": "Cooking in progress"
+      },
+      {
+       "note": "",
+       "prompt": "Overhead view of an Eid dessert table with baklava, date cookies, Turkish delight cubes and small glasses of tea on an ornate brass tray over a burgundy cloth, soft warm light, 35mm lens top down, abundant celebratory mood, empty margin on the left",
+       "shot": "Table from above"
+      }
+     ],
+     "why_fa": "Eid al-Fitr around 9 March 2027; pastry shops and food brands look for pictures of maamoul, date sweets and sweet trays from mid-Ramadan."
+    }
+   ],
+   "month": "2026-11",
+   "sources": [
+    {
+     "title": "Adobe Stock: Create what's in demand (upload seasonal content early)",
+     "url": "https://helpx.adobe.com/stock/contributor/help/artist-hub-migration/creat-what-s-in-demand.html"
+    },
+    {
+     "title": "How creators are leveraging Adobe's 2026 Creative Trends",
+     "url": "https://blog.adobe.com/en/publish/2026/01/08/how-creators-leveraging-adobe-2026-creative-trends"
+    },
+    {
+     "title": "Ramadan Begins – Feb. 8, 2027",
+     "url": "https://nationaltoday.com/ramadan-begins/"
+    },
+    {
+     "title": "Lunar New Year dates and zodiac animals (Royal Museums Greenwich)",
+     "url": "https://rmg.co.uk/stories/time/lunar-new-year-dates-animals-zodiac"
+    },
+    {
+     "title": "Whole Foods Market's top food and beverage trend predictions for 2027",
+     "url": "https://press.aboutamazon.com/2026/10/whole-foods-market-reveals-its-top-food-and-beverage-trend-predictions-for-2027"
+    },
+    {
+     "title": "The Grocer: Whole Foods bets on bitter flavours, beans and beautrition for 2027",
+     "url": "https://www.thegrocer.co.uk/news/whole-foods-bets-on-bitter-flavours-beans-and-beautrition-to-shape-grocery-in-2027/724862.article"
+    }
+   ],
+   "summary_fa": "This month work for February and early March 2027: Lunar New Year (6 February), the start of Ramadan and iftar (8 February), Valentine’s dinner, Eid al-Fitr (about 9 March) and Nowruz. In October 2026 Whole Foods announced eight 2027 food trends: Bean Boom, Yōshoku (Western food Japanese-style), Bitter Done Better, Dish Reinvention, Terroir, Beautrition, Ingredient Minimalism and Zero Waste 2.0; these are still under-supplied on stock sites. Natural light, real food texture and handmade dishes fit Adobe’s All the Feels trend. Avoid hands in close-ups and readable labels, and check the number of spoons, glasses and chopsticks at 100% zoom.",
+   "title_fa": "November 2026 report — for February and early March 2027 sales"
+  }
+ ],
+ "bank": null,
+ "app_latest": "1.0"
+}
