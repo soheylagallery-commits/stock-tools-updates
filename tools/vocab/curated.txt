@@ -1,0 +1,700 @@
+# hand-written stock subjects WordNet lacks or names oddly (one per line)
+key cutting machine
+key duplicating machine
+key duplicator
+locksmith workshop
+locksmith tools
+key blank
+key blanks
+house key
+car key
+smart key
+key fob
+padlock
+combination lock
+door lock cylinder
+smart door lock
+deadbolt
+door handle
+lever door handle
+door hinge
+door knob
+keyhole
+safe box
+cash register
+point of sale terminal
+card payment terminal
+receipt printer
+barcode scanner
+label printer
+3d printer
+3d printed object
+cnc machine
+laser engraver
+laser cutter
+lathe machine
+milling machine
+drill press
+band saw
+table saw
+circular saw
+angle grinder
+cordless drill
+impact driver
+soldering iron
+heat gun
+glue gun
+sewing machine
+embroidery machine
+industrial sewing machine
+vacuum sealer
+espresso machine
+coffee grinder
+coffee machine
+capsule coffee machine
+drip coffee maker
+french press
+moka pot
+electric kettle
+toaster
+microwave oven
+air fryer
+stand mixer
+hand mixer
+blender
+food processor
+juicer
+rice cooker
+slow cooker
+pressure cooker
+waffle maker
+bread maker
+ice cream maker
+dishwasher
+washing machine
+tumble dryer
+refrigerator
+wine fridge
+water dispenser
+water filter pitcher
+air purifier
+humidifier
+dehumidifier
+space heater
+electric fan
+ceiling fan
+air conditioner
+robot vacuum cleaner
+cordless vacuum cleaner
+steam iron
+hair dryer
+hair straightener
+electric toothbrush
+electric shaver
+bathroom scale
+kitchen scale
+smart speaker
+smart thermostat
+smart plug
+security camera
+video doorbell
+wifi router
+network switch
+server rack
+data center
+hard drive
+solid state drive
+usb flash drive
+memory card
+graphics card
+motherboard
+computer processor
+laptop
+closed laptop
+desktop computer
+computer monitor
+mechanical keyboard
+wireless mouse
+webcam
+microphone
+podcast microphone
+studio headphones
+wireless earbuds
+smartwatch
+fitness tracker
+smartphone
+tablet computer
+e-reader
+game controller
+virtual reality headset
+drone
+action camera
+mirrorless camera
+camera lens
+tripod
+ring light
+softbox
+photo studio
+projector
+power bank
+charging cable
+wireless charger
+electric car charger
+ev charging station
+solar panel
+solar panels on roof
+wind turbine
+heat pump
+battery storage system
+electric scooter
+electric bicycle
+electric car
+hybrid car
+delivery van
+cargo bike
+forklift
+pallet jack
+pallet
+cardboard box
+shipping box
+shipping container
+conveyor belt
+warehouse shelves
+industrial robot arm
+robotic arm
+assembly line
+control panel
+hydraulic press
+welding machine
+welding torch
+air compressor
+generator
+water pump
+pressure gauge
+valve
+pipe fittings
+copper pipes
+electrical panel
+circuit breaker
+electric cable
+cable reel
+toolbox
+tool wall
+wrench
+adjustable wrench
+socket set
+screwdriver set
+hammer
+pliers
+tape measure
+spirit level
+utility knife
+paint roller
+paint brush
+paint bucket
+sandpaper
+work gloves
+safety helmet
+hard hat
+safety goggles
+ear defenders
+high visibility vest
+respirator mask
+first aid kit
+fire extinguisher
+smoke detector
+measuring caliper
+micrometer
+oscilloscope
+multimeter
+microscope
+laboratory flask
+test tubes
+petri dish
+pipette
+centrifuge
+stethoscope
+blood pressure monitor
+pulse oximeter
+digital thermometer
+syringe
+medicine bottle
+pill organizer
+pills
+capsules
+wheelchair
+crutches
+hospital bed
+dental chair
+dental tools
+x-ray image
+mri scanner
+massage table
+yoga mat
+dumbbells
+kettlebell
+resistance bands
+treadmill
+exercise bike
+rowing machine
+foam roller
+water bottle
+sports bag
+running shoes
+sneakers
+tennis racket
+badminton racket
+football
+basketball
+volleyball
+golf club
+golf ball
+skateboard
+surfboard
+snowboard
+skis
+camping tent
+sleeping bag
+backpack
+hiking boots
+camping stove
+lantern
+thermos
+cooler box
+fishing rod
+bicycle helmet
+picnic basket
+beach umbrella
+sun lounger
+swimming pool
+hot tub
+sauna
+garden hose
+watering can
+lawn mower
+hedge trimmer
+wheelbarrow
+garden shovel
+pruning shears
+flower pot
+raised garden bed
+greenhouse
+compost bin
+bird feeder
+dog bed
+dog leash
+pet bowl
+cat tree
+aquarium
+office desk
+standing desk
+office chair
+ergonomic chair
+bookshelf
+filing cabinet
+whiteboard
+sticky notes
+notebook
+planner
+clipboard
+stapler
+paper clips
+pen holder
+desk lamp
+calculator
+paper shredder
+printer
+envelope
+gift box
+gift bag
+wrapping paper
+ribbon bow
+shopping bag
+paper bag
+tote bag
+blank label
+blank packaging
+cosmetic bottle
+dropper bottle
+pump bottle
+jar
+glass jar
+mason jar
+candle
+scented candle
+diffuser
+reed diffuser
+soap bar
+bath towel
+bathrobe
+toothbrush
+razor
+makeup brush
+lipstick
+nail polish
+perfume bottle
+mirror
+hairbrush
+comb
+sunglasses
+eyeglasses
+eyeglasses strap
+wristwatch
+jewelry
+ring
+necklace
+earrings
+bracelet
+handbag
+wallet
+belt
+hat
+scarf
+gloves
+umbrella
+suitcase
+travel suitcase
+passport cover
+boarding area
+airport terminal
+airplane
+train
+bus
+taxi
+ferry
+cruise ship
+sailboat
+bicycle
+motorcycle
+scooter
+car interior
+steering wheel
+car tire
+car engine
+car wash
+parking garage
+gas station
+road
+highway
+bridge
+tunnel
+city street
+crosswalk
+traffic light
+roundabout
+skyscraper
+office building
+apartment building
+house
+modern house
+cottage
+cabin
+barn
+factory
+warehouse
+construction site
+crane
+excavator
+bulldozer
+concrete mixer
+scaffolding
+brick wall
+concrete wall
+wooden floor
+tile floor
+marble countertop
+kitchen interior
+modern kitchen
+living room
+bedroom
+bathroom
+home office
+dining room
+hallway
+staircase
+balcony
+terrace
+patio
+garden
+backyard
+front door
+window
+skylight
+fireplace
+sofa
+armchair
+coffee table
+dining table
+bed
+pillow
+blanket
+rug
+curtains
+lamp
+pendant light
+chandelier
+houseplant
+monstera plant
+snake plant
+cactus
+succulent
+bonsai tree
+flower bouquet
+vase
+wall clock
+picture frame
+blank picture frame
+blank poster
+blank canvas
+easel
+paint palette
+watercolor paints
+colored pencils
+sketchbook
+pottery wheel
+clay pot
+ceramic vase
+knitting needles
+yarn
+crochet
+sewing kit
+fabric
+leather
+wood texture
+marble texture
+concrete texture
+paper texture
+abstract background
+gradient background
+bokeh background
+studio backdrop
+podium
+display stand
+product pedestal
+mockup
+flat lay
+still life
+breakfast table
+coffee cup
+latte art
+cappuccino
+tea cup
+teapot
+herbal tea
+wine glass
+cocktail
+beer glass
+smoothie
+lemonade
+water glass
+plate
+bowl
+cutting board
+chef knife
+frying pan
+saucepan
+baking tray
+oven
+grill
+barbecue
+bread loaf
+croissant
+cake
+cupcake
+cookies
+chocolate
+ice cream
+pizza
+pasta
+burger
+sandwich
+salad
+soup
+sushi
+rice bowl
+noodles
+dumplings
+steak
+grilled chicken
+fish fillet
+shrimp
+eggs
+cheese
+butter
+honey
+jam
+olive oil
+spices
+fresh herbs
+vegetables
+fruits
+apples
+oranges
+lemons
+bananas
+strawberries
+blueberries
+avocado
+tomatoes
+cucumbers
+carrots
+potatoes
+onions
+garlic
+peppers
+mushrooms
+nuts
+grains
+flour
+sugar
+coffee beans
+tea leaves
+pumpkin
+christmas tree
+christmas ornaments
+christmas gift
+advent calendar
+easter eggs
+halloween pumpkin
+valentine heart
+wedding rings
+wedding cake
+birthday cake
+balloons
+confetti
+fireworks
+ramadan lantern
+iftar table
+dates fruit
+lunar new year decoration
+diwali lamp
+graduation cap
+school supplies
+school backpack
+textbook
+classroom
+chalkboard
+globe
+library
+online learning
+video call
+remote work
+teamwork
+business meeting
+handshake
+contract signing
+presentation
+startup
+coworking space
+call center
+customer service
+cybersecurity
+data analytics
+artificial intelligence
+cloud computing
+blockchain
+cryptocurrency
+online shopping
+mobile payment
+credit card
+coins
+banknotes
+piggy bank
+savings
+investment
+real estate
+house keys
+moving boxes
+home renovation
+interior design
+architecture model
+blueprint
+floor plan
+renewable energy
+recycling bin
+plastic waste
+sustainable packaging
+zero waste
+reusable bag
+climate change
+drought
+flood
+wildfire
+earthquake
+storm
+snow
+rain
+fog
+sunrise
+sunset
+night sky
+milky way
+mountains
+mountain lake
+forest
+pine forest
+autumn forest
+tropical beach
+coastline
+cliff
+waterfall
+river
+desert
+sand dunes
+canyon
+volcano
+glacier
+iceberg
+field of wheat
+lavender field
+sunflower field
+vineyard
+orchard
+rice terraces
+countryside
+farm
+tractor
+cows
+sheep
+horses
+chickens
+dog
+cat
+puppy
+kitten
+rabbit
+hamster
+parrot
+bird
+eagle
+owl
+butterfly
+bee
+honeybee
+ladybug
+dragonfly
+fish
+goldfish
+shark
+dolphin
+whale
+sea turtle
+jellyfish
+coral reef
+octopus
+crab
+deer
+fox
+wolf
+bear
+panda
+lion
+tiger
+elephant
+giraffe
+zebra
+monkey
+koala
+kangaroo
+penguin
+flamingo
