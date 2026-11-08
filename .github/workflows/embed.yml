@@ -1,0 +1,21 @@
+name: embed-vocab
+on:
+  push:
+    paths: ["tools/vocab/phrases.txt", ".github/workflows/embed.yml", "tools/vocab/embed.py"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  embed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install --index-url https://download.pytorch.org/whl/cpu torch==2.4.1 && pip install transformers==4.44.2 numpy
+      - run: python tools/vocab/embed.py
+      - run: |
+          git config user.name "Claude"; git config user.email "noreply@anthropic.com"
+          git add tools/vocab/out
+          git commit -m "Computed vocabulary embeddings" || echo nothing
+          git push
