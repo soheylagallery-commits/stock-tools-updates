@@ -25,9 +25,13 @@ for root, thr in ROOTS.items():
             w = l.name().replace("_", " ")
             if w != w.lower() or not ok_word(w): continue
             z = Z(w, "en")
-            if z >= thr: out[w] = max(out.get(w, 0), z)
+            need = thr + 0.5
+            if " " in w or "-" in w: need = max(need, 2.8)
+            if s.lexname() in ("noun.plant", "noun.animal"): need = max(need, 3.3)
+            if z >= need: out[w] = max(out.get(w, 0), z)
 cur = [l.strip() for l in open("tools/vocab/curated.txt", encoding="utf-8") if l.strip() and not l.startswith("#")]
-words = sorted(out, key=lambda w: -out[w])[:16000]
+words = sorted(out, key=lambda w: -out[w])[:12000]
 P = list(dict.fromkeys(cur + words))
 open("tools/vocab/phrases.txt", "w", encoding="utf-8").write("\n".join(P) + "\n")
+open("tools/vocab/curated_count.txt", "w").write(str(len(dict.fromkeys(cur))))
 print(len(cur), len(out), len(P))

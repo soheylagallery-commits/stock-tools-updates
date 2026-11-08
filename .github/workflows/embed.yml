@@ -17,6 +17,6 @@ jobs:
       - run: python tools/vocab/embed.py
       - run: |
           git config user.name "Claude"; git config user.email "noreply@anthropic.com"
-          git add tools/vocab/out tools/vocab/phrases.txt
+          git add tools/vocab/out tools/vocab/phrases.txt tools/vocab/curated_count.txt
           git commit -m "Computed vocabulary embeddings" || echo nothing
           git push
